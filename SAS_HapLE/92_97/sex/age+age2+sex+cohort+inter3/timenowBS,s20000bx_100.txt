@@ -1,0 +1,2 @@
+starting	current	Total_Sim	Total_BS	BSnow
+04JUL25:23:46:11.8	05JUL25:01:02:40.0	20000	100	100

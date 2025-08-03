@@ -1,0 +1,250 @@
+BEGST=1. Estimation for whole sample.(Control Variables)                                                                                  2025年 7月 4日 星期五 下午01时57分12秒  25
+
+“LOGISTIC”过程
+
+            模型信息
+
+数据集         WORK.MODEL_CTRLCOV
+响应变量       ENDST             
+响应水平数     3                 
+权重变量       weight            
+模型           广义 Logit        
+优化方法       Newton-Raphson    
+
+
+读取的观测数         16730
+使用的观测数          8941
+读取的权重总和    4025.609
+使用的权重总和    4025.609
+
+
+                      响应概略
+ 
+    有序                        总               总
+      值        ENDST         频数             权重
+
+       1            3         1237         522.7272
+       2            2          534         238.4368
+       3            1         7170        3264.4445
+
+建立的 Logit 模型使用 ENDST=1 作为参考类别。
+
+NOTE: 7789 observations having nonpositive frequencies or weights were excluded since they do not contribute to the analysis.
+
+
+       分类水平信息
+ 
+分类       值     设计变量
+
+cohort     1            -1
+           2             1
+
+edu        1            -1
+           2             1
+
+sex        1             1
+           2            -1
+
+
+                          模型收敛状态
+
+满足收敛准则 (GCONV=1E-8)。                                     
+
+
+            模型拟合统计量
+ 
+准则            仅截距     截距和协变量
+
+AIC           4854.329         4848.994
+SC            4868.525         5019.356
+-2 Log L      4850.329         4800.994
+
+
+BEGST=1. Estimation for whole sample.(Control Variables)                                                                                  2025年 7月 4日 星期五 下午01时57分12秒  26
+
+“LOGISTIC”过程
+
+                 检验全局原假设: BETA=0
+ 
+检验                       卡方     自由度     Pr > 卡方
+
+似然比                  49.3346         22        0.0007
+评分                    50.4974         22        0.0005
+Wald                    49.1376         22        0.0008
+
+
+                   联合检验
+ 
+                              Wald
+效应          自由度          卡方    Pr > 卡方
+
+AGE                2        2.4168       0.2987
+AGE*AGE            2        2.6068       0.2716
+AGE*sex            2        0.0881       0.9569
+AGE*cohort         2        4.2238       0.1210
+cohort*sex         2        2.8257       0.2434
+cohort*edu         2        2.1651       0.3387
+edu*sex            2        0.0249       0.9876
+AGE*edu            2        1.1452       0.5641
+cohort             2        3.8582       0.1453
+edu                2        1.0538       0.5904
+sex                2        0.1338       0.9353
+
+NOTE: Under full-rank parameterizations, Type 3 effect tests are replaced by joint tests. The joint test for an effect is a test that all the parameters associated with that 
+      effect are zero. Such joint tests might not be equivalent to Type 3 effect tests under GLM parameterization.
+
+
+                                  最大似然估计分析
+ 
+                                                     标准          Wald
+参数              ENDST    自由度        估计        误差          卡方    Pr > 卡方
+
+Intercept         3             1     69.5145     50.9102        1.8644       0.1721
+Intercept         2             1    -32.1142     79.6775        0.1625       0.6869
+AGE               3             1     -1.6819      1.1502        2.1381       0.1437
+AGE               2             1      0.6699      1.8062        0.1376       0.7107
+AGE*AGE           3             1     0.00989     0.00649        2.3197       0.1277
+AGE*AGE           2             1    -0.00380      0.0102        0.1383       0.7100
+AGE*sex    1      3             1    -0.00438      0.0223        0.0386       0.8443
+AGE*sex    1      2             1     0.00705      0.0351        0.0403       0.8409
+AGE*cohort 2      3             1     -0.0178      0.0192        0.8624       0.3531
+AGE*cohort 2      2             1     -0.0561      0.0293        3.6733       0.0553
+cohort*sex 2 1    3             1      0.0937      0.0571        2.6915       0.1009
+cohort*sex 2 1    2             1      0.0439      0.0837        0.2747       0.6002
+cohort*edu 2 2    3             1      0.0850      0.0590        2.0760       0.1496
+cohort*edu 2 2    2             1      0.0366      0.0845        0.1871       0.6654
+edu*sex    2 1    3             1     0.00431      0.0592        0.0053       0.9419
+edu*sex    2 1    2             1     -0.0111      0.0841        0.0175       0.8947
+AGE*edu    2      3             1      0.0206      0.0230        0.7980       0.3717
+AGE*edu    2      2             1      0.0240      0.0355        0.4563       0.4993
+cohort     2      3             1      1.4187      1.6938        0.7016       0.4023
+cohort     2      2             1      4.7599      2.5718        3.4256       0.0642
+edu        2      3             1     -1.7065      2.0306        0.7062       0.4007
+edu        2      2             1     -2.0884      3.1155        0.4493       0.5026
+sex        1      3             1      0.5570      1.9687        0.0800       0.7772
+sex        1      2             1     -0.6210      3.0857        0.0405       0.8405
+BEGST=2. Estimation for whole sample.(Control Variables)                                                                                  2025年 7月 4日 星期五 下午01时57分12秒  27
+
+“LOGISTIC”过程
+
+            模型信息
+
+数据集         WORK.MODEL_CTRLCOV
+响应变量       ENDST             
+响应水平数     3                 
+权重变量       weight            
+模型           广义 Logit        
+优化方法       Newton-Raphson    
+
+
+读取的观测数         10441
+使用的观测数          5618
+读取的权重总和    2575.616
+使用的权重总和    2575.616
+
+
+                      响应概略
+ 
+    有序                        总               总
+      值        ENDST         频数             权重
+
+       1            3          864         371.2198
+       2            2         4105        1911.5990
+       3            1          649         292.7968
+
+建立的 Logit 模型使用 ENDST=2 作为参考类别。
+
+NOTE: 4823 observations having nonpositive frequencies or weights were excluded since they do not contribute to the analysis.
+
+
+       分类水平信息
+ 
+分类       值     设计变量
+
+cohort     1            -1
+           2             1
+
+edu        1            -1
+           2             1
+
+sex        1             1
+           2            -1
+
+
+                          模型收敛状态
+
+满足收敛准则 (GCONV=1E-8)。                                     
+
+
+            模型拟合统计量
+ 
+准则            仅截距     截距和协变量
+
+AIC           3855.317         3850.080
+SC            3868.585         4009.289
+-2 Log L      3851.317         3802.080
+
+
+BEGST=2. Estimation for whole sample.(Control Variables)                                                                                  2025年 7月 4日 星期五 下午01时57分12秒  28
+
+“LOGISTIC”过程
+
+                 检验全局原假设: BETA=0
+ 
+检验                       卡方     自由度     Pr > 卡方
+
+似然比                  49.2376         22        0.0007
+评分                    49.4469         22        0.0007
+Wald                    47.8456         22        0.0011
+
+
+                   联合检验
+ 
+                              Wald
+效应          自由度          卡方    Pr > 卡方
+
+AGE                2        1.1810       0.5540
+AGE*AGE            2        1.1080       0.5746
+AGE*sex            2        0.6069       0.7383
+AGE*cohort         2        7.1415       0.0281
+cohort*sex         2        0.8865       0.6419
+cohort*edu         2        1.3679       0.5046
+edu*sex            2        1.3162       0.5178
+AGE*edu            2        0.7901       0.6737
+cohort             2        6.9720       0.0306
+edu                2        0.7524       0.6865
+sex                2        0.6770       0.7129
+
+NOTE: Under full-rank parameterizations, Type 3 effect tests are replaced by joint tests. The joint test for an effect is a test that all the parameters associated with that 
+      effect are zero. Such joint tests might not be equivalent to Type 3 effect tests under GLM parameterization.
+
+
+                                  最大似然估计分析
+ 
+                                                     标准          Wald
+参数              ENDST    自由度        估计        误差          卡方    Pr > 卡方
+
+Intercept         3             1    -65.9590     65.9457        1.0004       0.3172
+Intercept         1             1    -54.1916     76.8025        0.4979       0.4804
+AGE               3             1      1.3651      1.4906        0.8388       0.3598
+AGE               1             1      1.2233      1.7443        0.4918       0.4831
+AGE*AGE           3             1    -0.00720     0.00842        0.7322       0.3922
+AGE*AGE           1             1    -0.00714     0.00990        0.5201       0.4708
+AGE*sex    1      3             1     -0.0207      0.0289        0.5129       0.4739
+AGE*sex    1      1             1     -0.0132      0.0329        0.1600       0.6892
+AGE*cohort 2      3             1     -0.0662      0.0248        7.1081       0.0077
+AGE*cohort 2      1             1    -0.00504      0.0283        0.0317       0.8587
+cohort*sex 2 1    3             1     -0.0125      0.0683        0.0334       0.8551
+cohort*sex 2 1    1             1      0.0656      0.0738        0.7899       0.3741
+cohort*edu 2 2    3             1      0.0814      0.0702        1.3421       0.2467
+cohort*edu 2 2    1             1    0.000461      0.0739        0.0000       0.9950
+edu*sex    2 1    3             1     -0.0700      0.0694        1.0175       0.3131
+edu*sex    2 1    1             1      0.0296      0.0743        0.1585       0.6906
+AGE*edu    2      3             1    -0.00847      0.0297        0.0812       0.7757
+AGE*edu    2      1             1     -0.0288      0.0330        0.7623       0.3826
+cohort     2      3             1      5.7723      2.1878        6.9609       0.0083
+cohort     2      1             1      0.6196      2.4776        0.0625       0.8025
+edu        2      3             1      0.7348      2.6204        0.0786       0.7792
+edu        2      1             1      2.4598      2.8887        0.7251       0.3945
+sex        1      3             1      1.9822      2.5509        0.6039       0.4371
+sex        1      1             1      1.0720      2.8808        0.1385       0.7098

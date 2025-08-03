@@ -1,0 +1,1316 @@
+NOTE: “PROCEDURE PRINTTO”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 数据集 WORK.EMPTY 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 S.COVCOMBOINDEX6 有 4 个观测和 3 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 WORK.TEMP1 有 2 个观测和 2 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数值已转换为字符值，位置:（行:列）。
+      1780:69   
+NOTE: 从数据集 WORK.TEMP1. 读取了 2 个观测
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 S.COVCOMBOINDEX6 有 4 个观测和 3 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 WORK.TEMP2 有 2 个观测和 2 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 数值已转换为字符值，位置:（行:列）。
+      1780:69   
+NOTE: 从数据集 WORK.TEMP2. 读取了 2 个观测
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+COV1=sex
+COV2=cohort
+REGCOV1=sex
+REGCOV2=cohort
+NC=2
+nREGCOV=2
+nSTRATCOV=0
+nCTRLCOVconti=0
+nCTRLCOVcateg=0
+nCTRLCOV     =0
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 WORK.COVCOMBOINDEX00 有 4 个观测和 3 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+nTVcov = 0
+Inputted numbers of NoTrans = 0
+
+NOTE: 数据集 WORK.TRANS 有 6 个观测和 3 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.TRANS. 读取了 6 个观测
+NOTE: 数据集 WORK.TRANSITIONS 有 6 个观测和 5 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.TRANSITIONS. 读取了 6 个观测
+NOTE: 数据集 WORK.TRANSITIONS 有 6 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 S.COVCOMBOINDEX6 有 4 个观测和 3 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 S.BSMPL6. 读取了 5076 个观测
+      WHERE (AGE>=89) and (weight>0);
+NOTE: 数据集 WORK.SEM0 有 5076 个观测和 16 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.SEM0. 读取了 5076 个观测
+NOTE: 数据集 WORK.SEM0 有 5076 个观测和 16 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.SEM0. 读取了 5076 个观测
+NOTE: 数据集 WORK.SEM 有 5076 个观测和 19 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.SEM. 读取了 5076 个观测
+NOTE: 数据集 WORK.SEM1 有 9400 个观测和 16 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+after SEM1
+
+NOTE: 从数据集 WORK.SEM1. 读取了 9400 个观测
+NOTE: 数据集 WORK.PRSNYR 有 7203 个观测和 17 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.SEM0 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.SEM 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.SEM1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+after PRSNYR
+
+NOTE: 数值已转换为字符值，位置:（行:列）。
+      1780:103   
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 数据集 WORK.PS2 有 48 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数据集 WORK.CTRLCOVCOMBOINDEXPREV 有 48 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 数值已转换为字符值，位置:（行:列）。
+      1780:116   
+NOTE: 从数据集 WORK.CTRLCOVCOMBOINDEXPREV. 读取了 48 个观测
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+nCtrlCOVindexPrev =           48
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 S.COVCOMBOINDEX6 有 4 个观测和 3 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 WORK.TEMP1 有 2 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 数值已转换为字符值，位置:（行:列）。
+      1780:83   
+NOTE: 从数据集 WORK.TEMP1. 读取了 2 个观测
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 S.COVCOMBOINDEX6 有 4 个观测和 3 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 WORK.TEMP2 有 2 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数值已转换为字符值，位置:（行:列）。
+      1780:83   
+NOTE: 从数据集 WORK.TEMP2. 读取了 2 个观测
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 数据集 WORK.CTRLCOVCOMBOINDEXTRANS 有 48 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数值已转换为字符值，位置:（行:列）。
+      1780:118   
+NOTE: 从数据集 WORK.CTRLCOVCOMBOINDEXTRANS. 读取了 48 个观测
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+nCtrlCOVindexTrans =           48
+
+NOTE: 从数据集 WORK.PS2. 读取了 48 个观测
+NOTE: 从数据集 S.BSMPL6. 读取了 3840 个观测
+      WHERE (AGE>=92) and (weight>0);
+NOTE: 数据集 WORK.PSBACK000 有 2417 个观测和 17 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.PSBACK000. 读取了 2417 个观测
+NOTE: 数据集 WORK.PSBACK000 有 2417 个观测和 17 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: PROC LOGISTIC is fitting the generalized logit model. The logits modeled contrast each response level against the reference level (H='1'). Use the response variable option 
+      REF= if you want to change the reference level.
+NOTE: Convergence criterion (GCONV=1E-8) satisfied.
+NOTE: 从数据集 WORK.PSBACK000. 读取了 2417 个观测
+NOTE: 数据集 WORK.PREV 有 2417 个观测和 21 个变量。
+NOTE: “PROCEDURE LOGISTIC”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.PREV. 读取了 48 个观测
+      WHERE CONTROL=1;
+NOTE: 数据集 WORK.PREV2 有 48 个观测和 5 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.PREV2. 读取了 48 个观测
+NOTE: 数据集 WORK.PREV2 有 48 个观测和 5 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 S.COVCOMBOINDEX6 有 4 个观测和 3 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 输入数据集已排序，故未进行排序。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PREV2. 读取了 48 个观测
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 数据集 WORK.PREV4 有 48 个观测和 6 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数据集 S.BSLE6 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数据集 WORK.PLY4 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数据集 WORK.SEST 有 96 个观测和 5 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.SEST. 读取了 96 个观测
+NOTE: 从数据集 WORK.PRSNYR. 读取了 7203 个观测
+NOTE: 数据集 WORK.MODEL 有 7299 个观测和 8 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.MODEL. 读取了 7299 个观测
+NOTE: 数据集 WORK.MODEL 有 7299 个观测和 8 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.TRANSITIONS. 读取了 6 个观测
+NOTE: 数据集 WORK.TRANSITIONS 有 6 个观测和 4 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.MODEL. 读取了 7299 个观测
+NOTE: 从数据集 WORK.TRANSITIONS. 读取了 6 个观测
+NOTE: 数据集 WORK.MODEL 有 7299 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.MODEL. 读取了 7299 个观测
+NOTE: 数据集 WORK.MODEL 有 7299 个观测和 10 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 数据集 WORK.PROBS 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: PROC LOGISTIC is fitting the generalized logit model. The logits modeled contrast each response category against the reference category (ENDST=1).
+NOTE: Convergence criterion (GCONV=1E-8) satisfied.
+NOTE: 从数据集 WORK.MODEL. 读取了 4624 个观测
+      WHERE BEGST=1;
+NOTE: 数据集 WORK.PROBS1 有 4624 个观测和 15 个变量。
+NOTE: “PROCEDURE LOGISTIC”所用时间（总处理时间）:
+      实际时间          0.09 秒
+      CPU 时间          0.09 秒
+      
+
+
+NOTE: 从数据集 WORK.PROBS. 读取了 1 个观测
+NOTE: 从数据集 WORK.PROBS1. 读取了 4624 个观测
+NOTE: 数据集 WORK.PROBS 有 4625 个观测和 16 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PROBS1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: PROC LOGISTIC is fitting the generalized logit model. The logits modeled contrast each response category against the reference category (ENDST=2).
+NOTE: Convergence criterion (GCONV=1E-8) satisfied.
+NOTE: 从数据集 WORK.MODEL. 读取了 2673 个观测
+      WHERE BEGST=2;
+NOTE: 数据集 WORK.PROBS2 有 2673 个观测和 15 个变量。
+NOTE: “PROCEDURE LOGISTIC”所用时间（总处理时间）:
+      实际时间          0.06 秒
+      CPU 时间          0.06 秒
+      
+
+
+NOTE: 从数据集 WORK.PROBS. 读取了 4625 个观测
+NOTE: 从数据集 WORK.PROBS2. 读取了 2673 个观测
+NOTE: 数据集 WORK.PROBS 有 7298 个观测和 16 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PROBS2 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: “PROCEDURE PRINTTO”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PROBS. 读取了 96 个观测
+      WHERE CONTROL=1;
+NOTE: 数据集 WORK.TRANPR 有 96 个观测和 7 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.TRANPR. 读取了 96 个观测
+NOTE: 数据集 WORK.TRANPR 有 96 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 输入数据集已排序，故未进行排序。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 4 个观测
+NOTE: 从数据集 WORK.TRANPR. 读取了 96 个观测
+NOTE: 数据集 WORK.TRANPRCJT002 有 96 个观测和 8 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.TRANPRCJT002. 读取了 96 个观测
+NOTE: 数据集 WORK.TRANPRCJT002 有 96 个观测和 8 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.MODEL 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.MODEL_CTRLCOV 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+after MODEL_logit
+NOTE: IML Ready
+NOTE: 数据集 WORK.SIMSRVP1 有 24 个观测和 3 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          0.10 秒
+      CPU 时间          0.09 秒
+      
+
+
+NOTE: 从数据集 WORK.SIMSRVP1. 读取了 24 个观测
+NOTE: 数据集 WORK.SIMSRVP1 有 24 个观测和 3 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_1P1 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          26.90 秒
+      CPU 时间          26.43 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_1P2 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          14.19 秒
+      CPU 时间          14.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_1P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_1P1 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_1P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_1 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_1P1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_1P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_1P2 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_1. 读取了 13000 个观测
+NOTE: 从数据集 WORK.PHS92_1P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_1 有 20000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_1P2 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_1. 读取了 20000 个观测
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 1 个观测
+      WHERE COVindex=1;
+NOTE: 数据集 WORK.PHS92_1 有 20000 个观测和 12 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_1. 读取了 20000 个观测
+NOTE: 数据集 WORK.PHSB92_1 有 88975 个观测和 7 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.04 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHSB92_1. 读取了 88975 个观测
+NOTE: 数据集 WORK.COMAREC 有 88975 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.07 秒
+      CPU 时间          0.07 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 88975 个观测
+NOTE: 数据集 WORK.COMAREC 有 88975 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.07 秒
+      CPU 时间          0.07 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 88975 个观测
+NOTE: 数据集 WORK.MSPH2 有 68975 个观测和 9 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHSB92_1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.COMAREC 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 68975 个观测
+NOTE: 数据集 WORK.PHS 有 20000 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 68975 个观测
+NOTE: 从数据集 WORK.PHS. 读取了 20000 个观测
+NOTE: 数据集 WORK.MSP92_1H3 有 20000 个观测和 14 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.MSP92_1H3. 读取了 20000 个观测
+NOTE: 数据集 WORK.MEDLE92 有 24 个观测和 9 个变量。
+NOTE: “PROCEDURE MEANS”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.07 秒
+      
+
+
+NOTE: 从数据集 WORK.MEDLE92. 读取了 3 个观测
+      WHERE _TYPE_ in (14, 15);
+NOTE: 数据集 WORK.MEDLE92_1 有 3 个观测和 11 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.SIMSRVP2 有 24 个观测和 3 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.SIMSRVP2. 读取了 24 个观测
+NOTE: 数据集 WORK.SIMSRVP2 有 24 个观测和 3 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_2P1 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          25.22 秒
+      CPU 时间          24.93 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_2P2 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          14.15 秒
+      CPU 时间          13.92 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_2P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_2P1 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_2P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_2 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_2P1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_2P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_2P2 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.00 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_2. 读取了 13000 个观测
+NOTE: 从数据集 WORK.PHS92_2P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_2 有 20000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_2P2 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_2. 读取了 20000 个观测
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 1 个观测
+      WHERE COVindex=2;
+NOTE: 数据集 WORK.PHS92_2 有 20000 个观测和 12 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_2. 读取了 20000 个观测
+NOTE: 数据集 WORK.PHSB92_2 有 87496 个观测和 7 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_2 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHSB92_2. 读取了 87496 个观测
+NOTE: 数据集 WORK.COMAREC 有 87496 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.07 秒
+      CPU 时间          0.07 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 87496 个观测
+NOTE: 数据集 WORK.COMAREC 有 87496 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 87496 个观测
+NOTE: 数据集 WORK.MSPH2 有 67496 个观测和 9 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.04 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHSB92_2 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.COMAREC 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 67496 个观测
+NOTE: 数据集 WORK.PHS 有 20000 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 67496 个观测
+NOTE: 从数据集 WORK.PHS. 读取了 20000 个观测
+NOTE: 数据集 WORK.MSP92_2H3 有 20000 个观测和 14 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.MSP92_2H3. 读取了 20000 个观测
+NOTE: 数据集 WORK.MEDLE92 有 24 个观测和 9 个变量。
+NOTE: “PROCEDURE MEANS”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.06 秒
+      
+
+
+NOTE: 从数据集 WORK.MEDLE92. 读取了 3 个观测
+      WHERE _TYPE_ in (14, 15);
+NOTE: 数据集 WORK.MEDLE92_2 有 3 个观测和 11 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.SIMSRVP3 有 24 个观测和 3 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.SIMSRVP3. 读取了 24 个观测
+NOTE: 数据集 WORK.SIMSRVP3 有 24 个观测和 3 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_3P1 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          25.26 秒
+      CPU 时间          24.98 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_3P2 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          13.10 秒
+      CPU 时间          12.99 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_3P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_3P1 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_3P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_3 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_3P1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_3P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_3P2 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_3. 读取了 13000 个观测
+NOTE: 从数据集 WORK.PHS92_3P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_3 有 20000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.03 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_3P2 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_3. 读取了 20000 个观测
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 1 个观测
+      WHERE COVindex=3;
+NOTE: 数据集 WORK.PHS92_3 有 20000 个观测和 12 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_3. 读取了 20000 个观测
+NOTE: 数据集 WORK.PHSB92_3 有 97326 个观测和 7 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_3 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHSB92_3. 读取了 97326 个观测
+NOTE: 数据集 WORK.COMAREC 有 97326 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.08 秒
+      CPU 时间          0.06 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 97326 个观测
+NOTE: 数据集 WORK.COMAREC 有 97326 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.06 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 97326 个观测
+NOTE: 数据集 WORK.MSPH2 有 77326 个观测和 9 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHSB92_3 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.COMAREC 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 77326 个观测
+NOTE: 数据集 WORK.PHS 有 20000 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 77326 个观测
+NOTE: 从数据集 WORK.PHS. 读取了 20000 个观测
+NOTE: 数据集 WORK.MSP92_3H3 有 20000 个观测和 14 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.MSP92_3H3. 读取了 20000 个观测
+NOTE: 数据集 WORK.MEDLE92 有 24 个观测和 9 个变量。
+NOTE: “PROCEDURE MEANS”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.06 秒
+      
+
+
+NOTE: 从数据集 WORK.MEDLE92. 读取了 3 个观测
+      WHERE _TYPE_ in (14, 15);
+NOTE: 数据集 WORK.MEDLE92_3 有 3 个观测和 11 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.SIMSRVP4 有 24 个观测和 3 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.SIMSRVP4. 读取了 24 个观测
+NOTE: 数据集 WORK.SIMSRVP4 有 24 个观测和 3 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_4P1 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          25.52 秒
+      CPU 时间          25.20 秒
+      
+
+NOTE: IML Ready
+NOTE: 数据集 WORK.PHS92_4P2 有 13000 个观测和 10 个变量。
+NOTE: Exiting IML.
+NOTE: “PROCEDURE IML”所用时间（总处理时间）:
+      实际时间          13.70 秒
+      CPU 时间          13.51 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_4P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_4P1 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_4P1. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_4 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_4P1 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_4P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_4P2 有 13000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_4. 读取了 13000 个观测
+NOTE: 从数据集 WORK.PHS92_4P2. 读取了 13000 个观测
+NOTE: 数据集 WORK.PHS92_4 有 20000 个观测和 10 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_4P2 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_4. 读取了 20000 个观测
+NOTE: 从数据集 S.COVCOMBOINDEX6. 读取了 1 个观测
+      WHERE COVindex=4;
+NOTE: 数据集 WORK.PHS92_4 有 20000 个观测和 12 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHS92_4. 读取了 20000 个观测
+NOTE: 数据集 WORK.PHSB92_4 有 93430 个观测和 7 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.05 秒
+      CPU 时间          0.04 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHS92_4 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.PHSB92_4. 读取了 93430 个观测
+NOTE: 数据集 WORK.COMAREC 有 93430 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.08 秒
+      CPU 时间          0.09 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 93430 个观测
+NOTE: 数据集 WORK.COMAREC 有 93430 个观测和 7 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.07 秒
+      CPU 时间          0.07 秒
+      
+
+
+NOTE: 从数据集 WORK.COMAREC. 读取了 93430 个观测
+NOTE: 数据集 WORK.MSPH2 有 73430 个观测和 9 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.03 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PHSB92_4 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.COMAREC 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 73430 个观测
+NOTE: 数据集 WORK.PHS 有 20000 个观测和 4 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.MSPH2. 读取了 73430 个观测
+NOTE: 从数据集 WORK.PHS. 读取了 20000 个观测
+NOTE: 数据集 WORK.MSP92_4H3 有 20000 个观测和 14 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.03 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 WORK.MSP92_4H3. 读取了 20000 个观测
+NOTE: 数据集 WORK.MEDLE92 有 24 个观测和 9 个变量。
+NOTE: “PROCEDURE MEANS”所用时间（总处理时间）:
+      实际时间          0.04 秒
+      CPU 时间          0.04 秒
+      
+
+
+NOTE: 从数据集 WORK.MEDLE92. 读取了 3 个观测
+      WHERE _TYPE_ in (14, 15);
+NOTE: 数据集 WORK.MEDLE92_4 有 3 个观测和 11 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.00 秒
+      
+
+
+NOTE: 从数据集 WORK.MEDLE92_1. 读取了 3 个观测
+NOTE: 从数据集 WORK.MEDLE92_2. 读取了 3 个观测
+NOTE: 从数据集 WORK.MEDLE92_3. 读取了 3 个观测
+NOTE: 从数据集 WORK.MEDLE92_4. 读取了 3 个观测
+NOTE: 数据集 WORK.MEDLE 有 12 个观测和 11 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 WORK.MEDLE. 读取了 12 个观测
+NOTE: 数据集 WORK.MEDLE 有 12 个观测和 11 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+
+NOTE: 从数据集 S.BSLE6. 读取了 1 个观测
+NOTE: 从数据集 WORK.MEDLE. 读取了 12 个观测
+NOTE: 数据集 S.BSLE6 有 12 个观测和 11 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.03 秒
+      
+
+
+NOTE: 从数据集 S.BSLE6. 读取了 12 个观测
+NOTE: 数据集 S.BSLE6 有 12 个观测和 11 个变量。
+NOTE: “PROCEDURE SORT”所用时间（总处理时间）:
+      实际时间          0.02 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PRSNYR 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PREV 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PREV_CTRLCOV 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
+NOTE: 从数据集 WORK.EMPTY. 读取了 1 个观测
+NOTE: 数据集 WORK.PSBACK000 有 1 个观测和 1 个变量。
+NOTE: “DATA 语句”所用时间（总处理时间）:
+      实际时间          0.01 秒
+      CPU 时间          0.01 秒
+      
+
