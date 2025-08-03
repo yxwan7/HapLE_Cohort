@@ -1,79 +1,101 @@
-# HapLE_Cohort Project: Cohort Trends of Healthy and Happy Life Expectancy among Older Adults in China
+# HapLE_Cohort Project: Cohort Trends of Happy Life Expectancy among Older Adults in China
 
-This repository contains the code and data structure for analyzing cohort trends of healthy life expectancy (HLE) and happy life expectancy (HapLE) among older adults in China, using data from the Chinese Longitudinal Healthy Longevity Survey (CLHLS).
+This repository contains the code and data structure for analyzing cohort trends of happy life expectancy (HapLE) among older adults in China, using data from the Chinese Longitudinal Healthy Longevity Survey (CLHLS).
 
 ## Project Structure
 
 The project is organized into three main components: R for data processing and visualization, SAS for multistate modeling and manuscripts for the final paper.
 
-### R Components
+### R Components (`R_HapLE/`)
 
 The R directory contains the following primary elements:
 
 #### CLHLS Data
 
-- **clhls data/**: Contains original survey datasets (`*.sav`) from CLHLS (1998-2018), used as input for the analysis.
-  - `code book/`: Code book for CLHLS dataset
-  - `questionare/`: survivors and deceased questionnaires used in CLHLS 2017-2018
+- **clhls data/**: Contains original survey datasets from CLHLS (2002-2018), used as input for the analysis.
+  - `clhls_2002_2018_longitudinal_dataset_released_version1.sav`: Main longitudinal dataset (2002-2018)
+  - `clhls_2011_2018_longitudinal_dataset_released_version1.sav`: Extended longitudinal dataset (2011-2018)
+  - `code book/`: Documentation for CLHLS datasets
+  - `questionare/`: Questionnaires for survivors and deceased respondents used in CLHLS 2017-2018
 
 #### R Code
 
 - **R code/**: Contains the R scripts that process the data and generate descriptive statistics and visualizations:
-  - `00_data_process_IPW_Final.R`: Processes the CLHLS data, creates health state variables, and applies Inverse Probability Weighting (IPW) to account for attrition.
-  - `01_table_descriptive.R`: Generates descriptive statistics tables for the cohort.
-  - `01_table_LE_edu_sig_all_states_seprate.R` and `01_table_LE_sex_sig_all_states_seprate.R`: Create tables showing life expectancy statistics by education level and sex.
-  - `02_plot_lexis.R`: Creates a Lexis diagram visualization showing the study design.
-  - `02_plot_stack_LE_edu.R` and `02_plot_stack_LE_sex.R`: Generate stacked plots visualizing life expectancy by education and sex.
+  - `0_1_data_process_HapLE.R`: Main data processing script for HapLE analysis
+  - `0_1_data_process_HapLE_4s.R`: Data processing for 4-state model
+  - `1_1_table_descriptive.R`: Generates descriptive statistics tables for the cohort
+  - `1_1_table_descriptive_4s.R`: Descriptive statistics for 4-state model
+  - `1_2_table_HapLE_sex.R` and `1_2_table_HapLE_sex_4s.R`: Creates HapLE tables by sex
+  - `1_3_table_HapLE_edu.R` and `1_3_table_HapLE_edu_4s.R`: Creates HapLE tables by education
+  - `1_4_table_HapLE_urban.R` and `1_3_table_HapLE_urban_4s.R`: Creates HapLE tables by urban/rural residence
+  - `2_1_plot_lexis.R`: Creates Lexis diagram visualization showing the study design
+  - `2_2_plot_stack_LE_sex.R`: Generates stacked plots for life expectancy by sex
+  - `2_3_plot_stack_LE_edu.R`: Generates stacked plots for life expectancy by education
+  - `2_4_plot_stack_LE_urban.R`: Generates stacked plots for life expectancy by urban/rural
 
 #### R Output
 
 - **R output/**: Contains the output files from R analysis:
-  - Descriptive statistics tables (`descriptive_age.csv`, `descriptive_cohort.csv`)
-  - Life expectancy tables (`life_expectancy_years_*.csv`, `life_expectancy_proportions_*.csv`)
-  - Visualization files (`HapLE_stacked_plots_*.png`, `Lexis_Diagram.png`)
+  - Descriptive statistics tables (`1_1_descriptive_age.csv`, `1_1_descriptive_cohort.csv`, `1_1_descriptive_age_4s.csv`, `1_1_descriptive_cohort_4s.csv`)
+  - Life expectancy tables (`1_2_life_expectancy_sex.csv`, `1_3_life_expectancy_edu.csv`, `1_4_life_expectancy_urban.csv`)
+  - HTML and LaTeX formatted tables (`*.html`, `*.tex`)
+  - Visualization files (`2_1_Lexis_Diagram.png`, `2_2_HapLE_stacked_plots_sex.png`, `2_3_HapLE_stacked_plots_edu.png`, `2_4_HapLE_stacked_plots_urban.png`)
 - **space input/**: Contains processed CSV files ready for SAS multistate modeling, separated by age groups:
-  - `HLE_65_74.csv`
-  - `HLE_75_84.csv`
-  - `HLE_85_94.csv`
-  - `HLE_95_105.csv`
+  - `HapLE_68_73.csv`, `HapLE_74_79.csv`, `HapLE_80_85.csv`, `HapLE_86_91.csv`
+  - `HapLE_all.csv`: Combined data for all age groups
+  - `HapLE_*_4s.csv`: 4-state model versions for each age group
 
-### SAS Components
+### SAS Components (`SAS_HapLE/`)
 
 The SAS directory is organized by age groups and analysis types:
 
 #### Age Group Directories
 
-Each age group (65-74, 75-84, 85-94, 95-105) contains:
+Each age group directory (68_73, 74_79, 80_85, 86_91~~, 92_97, 98_103~~) contains:
 
 - **sex/**: Analysis by sex only
-
-  - Various model specifications (e.g., `age+age2+sex+cohort`, `age+sex+cohort+inter`)
-- **sex+edu/**: Analysis by both sex and education
-
-  - Various model specifications with different interaction terms
+  - `age+age2+sex+cohort+inter3/`: Model specification with interaction terms
+- **sex_all/**: Analysis by sex for all ages combined
+  - `age+age2+sex+cohort+inter3/`: Model specification with interaction terms
+- **sex+edu/**: Analysis by sex and education
+  - `age+age2+sex+cohort+inter3/`: Model specification including education
+- **sex+urban/**: Analysis by sex and urban/rural residence
+  - `age+age2+sex+cohort+inter3/`: Model specification including urban/rural
 
 Each model specification directory contains:
 
 - `DATA_INPUT.sas`: Prepares data for state-space modeling
-- `MSLT_*` files: Multi-state life table modeling scripts
+- `MSLT_RADxCOV_M.sas` and `MSLT_RADxCOV_S.sas`: Multi-state life table modeling scripts
 - `SPACE_*` files: Core state-space model implementation
-- Output files (`*.LOG`, `*.txt`, `*.sas7bdat`)
+- `BSMSlog*.LOG`: SAS log files from model runs (10 bootstrap iterations)
+- Output files (`*.txt`, `*.sas7bdat`)
 
 #### Support Files
 
-- **input data/**: Contains the processed CSV files for SAS analysis
-- **output data/**: Contains model results:
-  - `LE/`: Life expectancy results by different groupings
-  - `test_les/`: test results of life expectancy from different model specifications
-  - `test_models/`: model statistics of different model specifications
-    - `Base Models.md`: summary of model statistics from base model
-    - `Base Models + Edu.md`: summary of model statistics from base model with education varibale added
+- **Output/**: Contains model results organized by analysis type:
+  - `LE/`: Life expectancy results by different groupings (sex, sex_all, sex+edu, sex+urban)
+    - Files follow naming pattern: `LE_{age_group}_{grouping}.txt` and `LE_{age_group}_{grouping}_b300.txt` for bootstrap results
+  - `Model/`: Model statistics and parameters by grouping
+    - Files follow naming pattern: `Model_{age_group}_{grouping}.txt`
 - **SAS code revised/**: Contains revised SAS code templates for this project
+  - `simyear_re/`: Standard simulation year templates
+  - `simyear+combine_state_re/`: Combined state simulation templates
 - **SPACE manual/**: Contains documentation for the SPACE (Stochastic Population Analysis for Complex Events) program
+  - `SPACE_manual.pdf`: Complete user manual
+  - `Cai et al 2010 (SPACE paper).pdf`: Original methodology paper
 
-### Manuscript Components
+### Manuscript Components (`Manuscript/`)
 
-The Manuscript directory contains manuscripts for the final paper.
+The Manuscript directory contains LaTeX files and outputs for the final paper:
+
+- **Latex/**: Main LaTeX manuscript files
+  - `Manuscript_re.tex`, `Manuscript_re2.tex`, `Manuscript_re3.tex`, `Manuscript_re4.tex`: Different versions of the manuscript
+  - `Manuscript.tex`: Original manuscript
+  - `refs.bib`: Bibliography file
+  - `fig_tabs_b100/` and `fig_tabs_b300/`: Figure and table outputs with different bootstrap iterations (100 vs 300)
+    - Contains descriptive statistics, life expectancy tables, and LaTeX formatted outputs
+    - Generated figures and state space diagrams (`latex_output/State_space.pdf`)
+  - `latex_output/`: Final compiled PDF versions of the manuscript
 
 ## Workflow
 
@@ -85,16 +107,16 @@ flowchart TD
     %% R Processing Section
     subgraph R["R Analysis Phase"]
         direction LR
-        DataPrep --> |"00_data_process_IPW_Final.R"| MergedData["Merged Longitudinal Dataset<br><i>(Health/Happy States & IPW Weights)</i>"]
+        DataPrep --> |"0_1_data_process_HapLE.R"| MergedData["Merged Longitudinal Dataset<br><i>(Health/Happy States)</i>"]
 
         subgraph RAnalysis["Descriptive Analysis"]
             direction TB
-            MergedData --> |"01_table_descriptive.R"| DescStats["Descriptive<br>Statistics"]
-            DescStats --> DescOutput["Tables:<br>descriptive_age.csv<br>descriptive_cohort.csv"]
-            MergedData --> |"02_plot_lexis.R"| LexisPlot["Study Design:<br>Lexis_Diagram.png"]
+            MergedData --> |"1_1_table_descriptive.R"| DescStats["Descriptive<br>Statistics"]
+            DescStats --> DescOutput["Tables:<br>1_1_descriptive_age.csv<br>1_1_descriptive_cohort.csv"]
+            MergedData --> |"2_1_plot_lexis.R"| LexisPlot["Study Design:<br>2_1_Lexis_Diagram.png"]
         end
 
-        MergedData --> |"Age group preparation"| SpaceInput["Age-specific CSV Files:<br>HLE_65_74.csv<br>HLE_75_84.csv<br>HLE_85_94.csv<br>HLE_95_105.csv"]
+        MergedData --> |"Age group preparation"| SpaceInput["Age-specific CSV Files:<br>HapLE_68_73.csv<br>HapLE_74_79.csv<br>HapLE_80_85.csv<br>HapLE_86_91.csv<br>HapLE_all.csv"]
     end
 
     %% SAS Analysis Section
@@ -104,23 +126,26 @@ flowchart TD
 
         subgraph AgeGroupsAnalysis["Age-Stratified Analysis"]
             direction LR
-            Age6574["Ages<br>65-74"] --- Age7584["Ages<br>75-84"]
-            Age7584 --- Age8594["Ages<br>85-94"]
-            Age8594 --- Age95105["Ages<br>95-105"]
+            Age6873["Ages<br>68-73"] --- Age7479["Ages<br>74-79"]
+            Age7479 --- Age8085["Ages<br>80-85"]
+            Age8085 --- Age8691["Ages<br>86-91"]
+            Age8691 --- Age9297["Ages<br>92-97"]
+            Age9297 --- Age98103["Ages<br>98-103"]
         end
 
         AgeGroups --> AgeGroupsAnalysis
 
         subgraph Models["Model Specifications"]
             direction LR
-            ModelType1["Age+Age2+Sex+Cohort"] --- ModelType2[""Age+Age2+Sex+Cohort+Edu""]
-            ModelType2
+            ModelType1["Sex Only"] --- ModelType2["Sex + Education"]
+            ModelType2 --- ModelType3["Sex + Urban/Rural"]
+            ModelType3 --- ModelType4["Sex All Ages"]
         end
 
         AgeGroupsAnalysis --> |"Apply model<br>specifications"| Models
-        Models --> |"SPACE_macro.sas<br>SPACE_MAIN.sas"| TransRates["Transition Probabilities<br>Between States"]
-        TransRates --> |"MSLT_SIMxCOV_M.sas"| PartialLife["Microsimulations"]
-        PartialLife --> LE_Results["Life Expectancy Results<br><i>(output data/LE/*.txt)</i>"]
+        Models --> |"DATA_INPUT.sas<br>SPACE_*.sas"| TransRates["Transition Probabilities<br>Between States"]
+        TransRates --> |"MSLT_RADxCOV_M.sas<br>MSLT_RADxCOV_S.sas"| PartialLife["Microsimulations<br>(300 Bootstrap Iterations)"]
+        PartialLife --> LE_Results["Life Expectancy Results<br><i>(Output/LE/*.txt)</i>"]
     end
 
     %% Final Visualization & Results
@@ -128,22 +153,26 @@ flowchart TD
         direction TB
         subgraph Tables["Result Tables"]
             direction LR
-            HLESexTables["HLE/HapLE by Sex:<br>life_expectancy_years_sex.csv<br>life_expectancy_proportions_sex.csv"] --- HLEEduTables["HLE/HapLE by Education:<br>life_expectancy_years_edu.csv<br>life_expectancy_proportions_edu.csv"]
+            HLESexTables["HapLE by Sex:<br>1_2_life_expectancy_sex.csv"] --- HLEEduTables["HapLE by Education:<br>1_3_life_expectancy_edu.csv"]
+            HLEEduTables --- HLEUrbanTables["HapLE by Urban/Rural:<br>1_4_life_expectancy_urban.csv"]
         end
 
         subgraph Plots["Visualization Plots"]
             direction LR
-            HLESexPlots["Sex-specific Plots:<br>HapLE_stacked_plots_sex.png"] --- HLEEduPlots["Education-specific Plots:<br>HapLE_stacked_plots_edu.png"]
+            HLESexPlots["Sex-specific Plots:<br>2_2_HapLE_stacked_plots_sex.png"] --- HLEEduPlots["Education-specific Plots:<br>2_3_HapLE_stacked_plots_edu.png"]
+            HLEEduPlots --- HLEUrbanPlots["Urban/Rural Plots:<br>2_4_HapLE_stacked_plots_urban.png"]
         end
 
-        LE_Results --> |"01_table_LE_sex_sig_all_states_seprate.R"| HLESexTables
-        LE_Results --> |"01_table_LE_edu_sig_all_states_seprate.R"| HLEEduTables
-        HLESexTables --> |"02_plot_stack_LE_sex.R"| HLESexPlots
-        HLEEduTables --> |"02_plot_stack_LE_edu.R"| HLEEduPlots
+        LE_Results --> |"1_2_table_HapLE_sex.R"| HLESexTables
+        LE_Results --> |"1_3_table_HapLE_edu.R"| HLEEduTables
+        LE_Results --> |"1_4_table_HapLE_urban.R"| HLEUrbanTables
+        HLESexTables --> |"2_2_plot_stack_LE_sex.R"| HLESexPlots
+        HLEEduTables --> |"2_3_plot_stack_LE_edu.R"| HLEEduPlots
+        HLEUrbanTables --> |"2_4_plot_stack_LE_urban.R"| HLEUrbanPlots
     end
 
     %% Manuscript Preparation
-    Plots --> Manuscript["Manuscript"]
+    Plots --> Manuscript["Manuscript<br>(LaTeX)"]
     DescOutput --> Manuscript
 
     %% Styling
@@ -160,46 +189,55 @@ flowchart TD
     class R,SAS,Visualization phase
     class AgeGroups,Models,TransRates,PartialLife analysis
     class DescStats,LexisPlot,DescOutput,AgeGroupsAnalysis,SpaceInput intermediateResult
-    class HLESexTables,HLEEduTables,HLESexPlots,HLEEduPlots,Tables,Plots results
+    class HLESexTables,HLEEduTables,HLEUrbanTables,HLESexPlots,HLEEduPlots,HLEUrbanPlots,Tables,Plots results
     class Manuscript manuscript
-    class Age6574,Age7584,Age8594,Age95105 analysis
-    class ModelType1,ModelType2,ModelType3 analysis
+    class Age6873,Age7479,Age8085,Age8691,Age9297,Age98103 analysis
+    class ModelType1,ModelType2,ModelType3,ModelType4 analysis
     class LE_Results,RAnalysis intermediateResult
 ```
 
-The analysis follows this sequential workflow (See details in `Manuscript\`):
+The analysis follows this sequential workflow (See details in `Manuscript/`):
 
-1. **Data Preparation (R)** `00_data_process_IPW_Final.R`
+1. **Data Preparation (R)** `0_1_data_process_HapLE.R`
 
-   - Import original CLHLS datasets
-   - Define health states (happy, healthy) for each respondent
-   - Create cohorts from different survey waves (2002-2008, 2011-2018)
-   - Calculate Inverse Probability Weights to account for attrition
-     - IPW Diagnostics: use the `bal.tab` function from the `cobalt` package to check the balance of baseline covariates between the "lost" and "not lost" groups.
-   - Export processed data by age groups
-2. **Descriptive Analysis (R)** `01_table_descriptive.R`
+   - Import original CLHLS datasets (2002-2018 and 2011-2018)
+   - Define happy states for each respondent
+   - Create cohorts from different survey waves
+   - Process data for both 3-state and 4-state models
+   - Export processed data by age groups (68-73, 74-79, 80-85, 86-91~~, 92-97, 98-103~~)
+2. **Descriptive Analysis (R)** `1_1_table_descriptive.R`
 
    - Generate cohort characteristics tables
-   - Analyze sample distributions by age, sex, education, and other variables
-   - Create Lexis plot showing sample structure `02_plot_lexis.R`
-3. **Multistate Modeling (SAS)** `SAS/`
+   - Analyze sample distributions by age, sex, education, and urban/rural residence
+   - Create both standard and 4-state model descriptive tables
+   - Create Lexis plot showing sample structure `2_1_plot_lexis.R`
+3. **Multistate Modeling (SAS)** `SAS_HapLE/`
 
    - Import processed data for each age group `DATA_INPUT.sas`
-   - Specify SPACE parameters for multi-state analysis `SPACE_Macro.sas`
-   - Run different model specifications with various covariates `test_models/`
-     - Test the base model `age+sex+cohort` , the model including the squared age term `age+age2+sex+cohort`, and the model including interaction terms `age+age2+sex+cohort+inter*`.
-     - The results showed that the interaction terms were not significant in the 85-94 and 95-105 age groups. To ensure the stability and parsimony of the model, the compromise model - the model including the squared age term `age+age2+sex+cohort` and `age+age2+sex+cohort+edu` - was selected as base model to modeling the transition probabilities.
-   - Perform microsimulation to simulate transitions between states over 10 or 11 years
-   - Create 200 bootstrapped simulations to estimate confidence intervals
-   - Export life expectancy estimates
+   - Specify SPACE parameters for multi-state analysis using various model specifications
+   - Run models with different covariate combinations:
+     - Sex only (`sex/`)
+     - Sex for all ages combined (`sex_all/`)
+     - Sex + Education (`sex+edu/`)
+     - Sex + Urban/Rural residence (`sex+urban/`)
+   - Apply model specification: `age+age2+sex+cohort+inter3` with interaction terms
+   - Perform microsimulation using `MSLT_RADxCOV_M.sas` and `MSLT_RADxCOV_S.sas`
+   - Create 300 bootstrapped simulations (10 iterations × 30 sets) to estimate confidence intervals
+   - Export life expectancy estimates to `Output/LE/` directory
    - **More details about `SPACE` program**:
      - References: `SPACE manual/`
      - Websites: [https://sites.utexas.edu/space/](https://sites.utexas.edu/space/)
 4. **Results Visualization (R)**
 
-   - Import life expectancy estimates from SAS `LE/`
-   - Create tables showing years lived in different states `01_table_LE_*_sig_all_states_seprate.R`
-   - Generate stacked bar charts showing the proportion of remaining life spent in each state `02_plot_stack_LE_*.R`
+   - Import life expectancy estimates from SAS `Output/LE/`
+   - Create tables showing HapLE by different demographic groups:
+     - `1_2_table_HapLE_sex.R`: Life expectancy by sex
+     - `1_3_table_HapLE_edu.R`: Life expectancy by education
+     - `1_4_table_HapLE_urban.R`: Life expectancy by urban/rural residence
+   - Generate stacked bar charts showing the proportion of remaining life spent in each state:
+     - `2_2_plot_stack_LE_sex.R`
+     - `2_3_plot_stack_LE_edu.R`
+     - `2_4_plot_stack_LE_urban.R`
 
 ## Methodology References
 
