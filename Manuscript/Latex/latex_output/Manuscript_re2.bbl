@@ -1,0 +1,4440 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{baur.1983.stability}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c7ee6e562b5e7ecc259347a19d9e65ce}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e0534199b64077543472364d5ef1dbe}{%
+           family={Okun},
+           familyi={O\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{fullhash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{fullhashraw}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{bibnamehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authorbibnamehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authornamehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authorfullhash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authorfullhashraw}{109da5e60b12d38db3e4ea9e1002ec87}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0016-9013, 1758-5341}
+      \field{journaltitle}{Gerontologist}
+      \field{month}{6}
+      \field{number}{3}
+      \field{pagetotal}{7}
+      \field{shortjournal}{Gerontologist}
+      \field{title}{Stability of Life Satisfaction in Late Life}
+      \field{volume}{23}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{pages}{261\bibrangedash 265}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1093/geront/23.3.261
+      \endverb
+      \verb{eprint}
+      \verb 6873694
+      \endverb
+    \endentry
+    \entry{cai.2023.does}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=1,uniquepart=given,hash=766d6b695906a961c8a1c5dfae81f0af}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Huajian},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=1e7755213d90997b9a16243417dfbe6b}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Jingqi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f168422ce4850696dc051ebbc328a3a5}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Zhan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bfd30e1399c9a46ce5e80b924ffd942}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoou},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44fe9d026d806f0abb4f0e3257b05a58}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Zihang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30dd6ae88a111268fe42b55e0fca30f0}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Yiming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be24b6cf6095c0ac83224e732a1d7e9c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ziyan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ec73bc6aedc1cdcd2ba99e283819a0b}
+      \strng{fullhash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{fullhashraw}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{bibnamehash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{authorbibnamehash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{authornamehash}{1ec73bc6aedc1cdcd2ba99e283819a0b}
+      \strng{authorfullhash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{authorfullhashraw}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1948-5506, 1948-5514}
+      \field{journaltitle}{Social Psychological and Personality Science}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{Soc. Psychol. Pers. Sci.}
+      \field{shorttitle}{Does Economic Growth Raise Happiness in {{China}}?}
+      \field{title}{Does Economic Growth Raise Happiness in {{China}}? {{A}} Comprehensive Reexamination}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{238\bibrangedash 248}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/19485506221089804
+      \endverb
+    \endentry
+    \entry{cai.2010.estimation}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=79d312239a234746632897639a3be1ff}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Liming},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a76fab24bb322aa280fd199b657941c9}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69bc677f45c9fa3a795f0ef31c533ab3}{%
+           family={Saito},
+           familyi={S\bibinitperiod},
+           given={Yasuhiko},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc07dc768c66ca61bfd235748a64a18d}{%
+           family={Lubitz},
+           familyi={L\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b48481a2253ebf191a82108885e10f63}{%
+           family={Hagedorn},
+           familyi={H\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e6f4a075acba5fef72b702bc04e8ba1}{%
+           family={Crimmins},
+           familyi={C\bibinitperiod},
+           given={Eileen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{686cd2e8dbce27853d98545567666bbc}
+      \strng{fullhash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{fullhashraw}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{bibnamehash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{authorbibnamehash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{authornamehash}{686cd2e8dbce27853d98545567666bbc}
+      \strng{authorfullhash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{authorfullhashraw}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1435-9871}
+      \field{journaltitle}{Demographic Research}
+      \field{month}{1}
+      \field{number}{6}
+      \field{shortjournal}{Demogr. Res.}
+      \field{title}{Estimation of Multi-State Life Table Functions and Their Variability from Complex Survey Data Using the {{SPACE}} Program}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{129\bibrangedash 158}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.4054/DemRes.2010.22.6
+      \endverb
+      \verb{eprint}
+      \verb 20463842
+      \endverb
+    \endentry
+    \entry{centerforhealthyaginganddevelopmentstudies.2020.chinese}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad4096969b8fee06fe57915ac457d312}{%
+           family={{Center for Healthy Aging and Development Studies}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Peking University Open Research Data Platform}%
+      }
+      \strng{namehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{fullhash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{fullhashraw}{ad4096969b8fee06fe57915ac457d312}
+      \strng{bibnamehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authorbibnamehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authornamehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authorfullhash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authorfullhashraw}{ad4096969b8fee06fe57915ac457d312}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{The Chinese Longitudinal Healthy Longevity Survey({{CLHLS}})}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.18170/DVN/WBO7LK
+      \endverb
+    \endentry
+    \entry{cheng.2021.sociodemographic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=421032d2190d40b6f8bfacfad643f218}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7991a015696b3862155dff66c97e619b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{fullhash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{fullhashraw}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{bibnamehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authorbibnamehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authornamehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authorfullhash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authorfullhashraw}{0f72a70eafe014a63ff771ad2c74555b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{16}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1471-2318}
+      \field{journaltitle}{BMC Geriatrics}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shortjournal}{BMC Geriatr.}
+      \field{shorttitle}{Sociodemographic, Health-Related, and Social Predictors of Subjective Well-Being among Chinese Oldest-Old}
+      \field{title}{Sociodemographic, Health-Related, and Social Predictors of Subjective Well-Being among Chinese Oldest-Old: A National Community-Based Cohort Study}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{124}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12877-021-02071-7
+      \endverb
+      \verb{eprint}
+      \verb 33593298
+      \endverb
+    \endentry
+    \entry{dong.2017.exploring}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ea4a980a1171f2b40739d2c547ba49b5}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Hongwei},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11118063c04a078e52b9515b1b93ceec}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{fullhash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{fullhashraw}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{bibnamehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authorbibnamehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authornamehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authorfullhash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authorfullhashraw}{42f948f7a6250fcd69539db3a5b6eba6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{issn}{0169-2046}
+      \field{journaltitle}{Landscape and Urban Planning}
+      \field{month}{8}
+      \field{shortjournal}{Landscape Urban Plann.}
+      \field{shorttitle}{Exploring the Link between Neighborhood Environment and Mental Wellbeing}
+      \field{title}{Exploring the Link between Neighborhood Environment and Mental Wellbeing: A Case Study in Beijing, China}
+      \field{volume}{164}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{71\bibrangedash 80}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.landurbplan.2017.04.005
+      \endverb
+    \endentry
+    \entry{duan.2020.happy}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d08a1d79c9107c2d0e906ad33fa8ef11}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Yuanyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06debc36f6b61a405e8f0da1c7ccd6ca}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Singapore}%
+      }
+      \strng{namehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{fullhash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{fullhashraw}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{bibnamehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authorbibnamehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authornamehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authorfullhash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authorfullhashraw}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2096-448X, 2523-8965}
+      \field{journaltitle}{China Population and Development Studies}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{China Popul. Dev. Stud.}
+      \field{title}{Happy Life Expectancy in {{China}}}
+      \field{volume}{3}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{218\bibrangedash 236}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s42379-020-00046-6
+      \endverb
+    \endentry
+    \entry{dugoff.2014.generalizing}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4e98aafd1503c1eed35ddd004c128af4}{%
+           family={DuGoff},
+           familyi={D\bibinitperiod},
+           given={Eva\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=528b7dd8b82b3da643a4d52b49440743}{%
+           family={Schuler},
+           familyi={S\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc9216d91954f9b5dc8d8a294d4c2611}{%
+           family={Stuart},
+           familyi={S\bibinitperiod},
+           given={Elizabeth\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3375192a1cc8a45b2a0f1dd8ca9dae3}
+      \strng{fullhash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{fullhashraw}{eb609a2218399341e2b14adc17e0618d}
+      \strng{bibnamehash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{authorbibnamehash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{authornamehash}{a3375192a1cc8a45b2a0f1dd8ca9dae3}
+      \strng{authorfullhash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{authorfullhashraw}{eb609a2218399341e2b14adc17e0618d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0017-9124, 1475-6773}
+      \field{journaltitle}{Health Services Research}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shortjournal}{Health Serv. Res.}
+      \field{shorttitle}{Generalizing Observational Study Results}
+      \field{title}{Generalizing Observational Study Results: Applying Propensity Score Methods to Complex Surveys}
+      \field{volume}{49}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{284\bibrangedash 303}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/1475-6773.12090
+      \endverb
+    \endentry
+    \entry{easterlin.1974.does}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4e5df5ca42caf0af188cce3d0250279e}{%
+           family={Easterlin},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4b622b714a379377cfaf27df6f9901d0}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e2e06044f2a91b97e06dc20e25f20bc7}{%
+           family={Reder},
+           familyi={R\bibinitperiod},
+           given={Melvin\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{fullhash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{fullhashraw}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{bibnamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorbibnamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authornamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorfullhash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorfullhashraw}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{editorbibnamehash}{9eee88cda99c4bc36409620b882ac07e}
+      \strng{editornamehash}{9eee88cda99c4bc36409620b882ac07e}
+      \strng{editorfullhash}{9eee88cda99c4bc36409620b882ac07e}
+      \strng{editorfullhashraw}{9eee88cda99c4bc36409620b882ac07e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Nations and {{Households}} in {{Economic Growth}}}
+      \field{day}{1}
+      \field{isbn}{978-0-12-205050-3}
+      \field{month}{1}
+      \field{shorttitle}{Does Economic Growth Improve the Human Lot?}
+      \field{title}{Does Economic Growth Improve the Human Lot? {{Some}} Empirical Evidence}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{pages}{89\bibrangedash 125}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-205050-3.50008-7
+      \endverb
+    \endentry
+    \entry{easterlin.2012.chinas}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4e5df5ca42caf0af188cce3d0250279e}{%
+           family={Easterlin},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87e2647f1a9432f873c5c7a18f5b7fb2}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Robson},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc55dc9915ff7597c34f4d8274829c98}{%
+           family={Switek},
+           familyi={S\bibinitperiod},
+           given={Malgorzata},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60af9bc009f709103e587bb92cee1cda}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences; Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{fullhash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{fullhashraw}{9d89a544b226badee03418663c5f8f3f}
+      \strng{bibnamehash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{authorbibnamehash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{authornamehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{authorfullhash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{authorfullhashraw}{9d89a544b226badee03418663c5f8f3f}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{6}
+      \field{number}{25}
+      \field{shortjournal}{Proc. Natl. Acad. Sci.}
+      \field{title}{China's Life Satisfaction, 1990--2010}
+      \field{volume}{109}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{9775\bibrangedash 9780}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1205672109
+      \endverb
+      \verb{eprint}
+      \verb 22586096
+      \endverb
+    \endentry
+    \entry{easterlin.2021.growth}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4e5df5ca42caf0af188cce3d0250279e}{%
+           family={Easterlin},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60af9bc009f709103e587bb92cee1cda}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=322023c9768a1822b55d801bd7a986e1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=1b4daa6c3dac4b68214890acea13c4b8}{%
+           family={Bruni},
+           familyi={B\bibinitperiod},
+           given={Luigino},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1267129e4eba766ae96f3cfca2f8a2b9}{%
+           family={Smerilli},
+           familyi={S\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9fa94d713156dca79b412cee4d462672}{%
+           family={De\bibnamedelima Rosa},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Dalila},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham UK; Northampton MA}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{fullhash}{3e3fe44097133614b152673c34def3c5}
+      \strng{fullhashraw}{3e3fe44097133614b152673c34def3c5}
+      \strng{bibnamehash}{3e3fe44097133614b152673c34def3c5}
+      \strng{authorbibnamehash}{3e3fe44097133614b152673c34def3c5}
+      \strng{authornamehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{authorfullhash}{3e3fe44097133614b152673c34def3c5}
+      \strng{authorfullhashraw}{3e3fe44097133614b152673c34def3c5}
+      \strng{editorbibnamehash}{3adc926936e5b44575da327cc9b14448}
+      \strng{editornamehash}{1797ad36a6cf04ae92559282151f3f55}
+      \strng{editorfullhash}{3adc926936e5b44575da327cc9b14448}
+      \strng{editorfullhashraw}{3adc926936e5b44575da327cc9b14448}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A {{Modern Guide}} to the {{Economics}} of {{Happiness}}}
+      \field{day}{15}
+      \field{isbn}{978-1-78897-876-7 978-1-78897-875-0}
+      \field{month}{1}
+      \field{series}{Elgar Modern Guides}
+      \field{title}{Growth and Happiness in {{China}}, 1990--2015}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.4337/9781788978767.00017
+      \endverb
+    \endentry
+    \entry{feng.2024.gender}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b6556862203221b5a8699eab4cb8113}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Jianxi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f642df23109af1151a0e94ce894e71c6}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{fullhash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{fullhashraw}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{bibnamehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authorbibnamehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authornamehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authorfullhash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authorfullhashraw}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{30}
+      \field{issn}{2296-2565}
+      \field{journaltitle}{Frontiers in Public Health}
+      \field{month}{8}
+      \field{shortjournal}{Front. Public Health}
+      \field{shorttitle}{Gender Differences in the Subjective Wellbeing of the Older Adults and the Determinant Factors}
+      \field{title}{Gender Differences in the Subjective Wellbeing of the Older Adults and the Determinant Factors: A Case Study of Nanjing}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpubh.2024.1447777
+      \endverb
+    \endentry
+    \entry{fries.1980.aging}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=209c815174858efb7fd1f4f4ad934fe1}{%
+           family={Fries},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {New England Journal of Medicine}%
+      }
+      \list{publisher}{1}{%
+        {Massachusetts Medical Society}%
+      }
+      \strng{namehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{fullhash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{fullhashraw}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{bibnamehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authorbibnamehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authornamehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authorfullhash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authorfullhashraw}{209c815174858efb7fd1f4f4ad934fe1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{7}
+      \field{title}{Aging, Natural Death, and the Compression of Morbidity}
+      \field{type}{research-article}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1056/NEJM198007173030304
+      \endverb
+    \endentry
+    \entry{george.2010.still}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ca1b130e8ace3ecdd6914a4a744c482}{%
+           family={George},
+           familyi={G\bibinitperiod},
+           given={Linda\bibnamedelima K.},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Academic}%
+      }
+      \strng{namehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{fullhash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{fullhashraw}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{bibnamehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authorbibnamehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authornamehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authorfullhash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authorfullhashraw}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1079-5014}
+      \field{journaltitle}{The Journals of Gerontology: Series B}
+      \field{month}{1}
+      \field{number}{3}
+      \field{shortjournal}{J. Gerontol.: B}
+      \field{title}{Still Happy after All These Years: Research Frontiers on Subjective Well-Being in Later Life}
+      \field{volume}{65B}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{331\bibrangedash 339}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/geronb/gbq006
+      \endverb
+      \verb{eprint}
+      \verb 20233742
+      \endverb
+    \endentry
+    \entry{graham.2017.happiness}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c83918ddaa42237848bfd7364112047b}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b159988ca0fc8b23ab71f3f9b787168e}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Shaojie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aee2c60a4a349857cf00a72fd46ed43a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Junyi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84b7622daecd803e46ba1c8678cccbb6}
+      \strng{fullhash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{fullhashraw}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{bibnamehash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{authorbibnamehash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{authornamehash}{84b7622daecd803e46ba1c8678cccbb6}
+      \strng{authorfullhash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{authorfullhashraw}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0305750X}
+      \field{journaltitle}{World Development}
+      \field{month}{8}
+      \field{shortjournal}{World Dev.}
+      \field{shorttitle}{Happiness and Health in {{China}}}
+      \field{title}{Happiness and Health in {{China}}: The Paradox of Progress}
+      \field{volume}{96}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{231\bibrangedash 244}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.worlddev.2017.03.009
+      \endverb
+    \endentry
+    \entry{gruenberg.1977.failures}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04e390761167d79c09f3552362eaaf34}{%
+           family={Gruenberg},
+           familyi={G\bibinitperiod},
+           given={Ernest\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[Milbank Memorial Fund, Wiley]}%
+      }
+      \strng{namehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{fullhash}{04e390761167d79c09f3552362eaaf34}
+      \strng{fullhashraw}{04e390761167d79c09f3552362eaaf34}
+      \strng{bibnamehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authorbibnamehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authornamehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authorfullhash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authorfullhashraw}{04e390761167d79c09f3552362eaaf34}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{0160-1997}
+      \field{journaltitle}{Milbank Memorial Fund Quarterly. Health and Society}
+      \field{number}{1}
+      \field{shortjournal}{Milbank Mem. Fund Q. Health Soc.}
+      \field{title}{The Failures of Success}
+      \field{volume}{55}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 24}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.2307/3349592
+      \endverb
+      \verb{eprint}
+      \verb 3349592
+      \endverb
+    \endentry
+    \entry{gu.2008.general}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=21b05095f233ddb7743aca60c87e31ca}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Danan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Dordrecht}%
+      }
+      \strng{namehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{fullhash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{fullhashraw}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{bibnamehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authorbibnamehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authornamehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authorfullhash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authorfullhashraw}{21b05095f233ddb7743aca60c87e31ca}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Healthy {{Longevity}} in {{China}}}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{General Data Quality Assessment of the {{CLHLS}}}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 60}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-6752-5_3
+      \endverb
+    \endentry
+    \entry{guo.2024.regional}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5ea8e3f273f1ea2b70b11f9610020bd0}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yuanzhi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=659c0319d9701bc51c5b01816c4f7cd2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xuhong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{fullhash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{fullhashraw}{0dda6334d035deadaa03fb5666af728d}
+      \strng{bibnamehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authorbibnamehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authornamehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authorfullhash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authorfullhashraw}{0dda6334d035deadaa03fb5666af728d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{24058440}
+      \field{journaltitle}{Heliyon}
+      \field{month}{2}
+      \field{number}{4}
+      \field{shortjournal}{Heliyon}
+      \field{shorttitle}{Regional Inequality in {{China}}'s Educational Development}
+      \field{title}{Regional Inequality in {{China}}'s Educational Development: An Urban-Rural Comparison}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{e26249}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e26249
+      \endverb
+      \verb{eprint}
+      \verb 38379968
+      \endverb
+    \endentry
+    \entry{huang.2021.intergenerational}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9c7999297a96ea67d9bb825df1126b23}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Fanghong},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=960d602ff0b905258f3a145baf5c0941}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Peipei},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{fullhash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{fullhashraw}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{bibnamehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authorbibnamehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authornamehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authorfullhash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authorfullhashraw}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{15}
+      \field{issn}{1471-2318}
+      \field{journaltitle}{BMC Geriatrics}
+      \field{month}{4}
+      \field{number}{1}
+      \field{shortjournal}{BMC Geriatr.}
+      \field{shorttitle}{Intergenerational Support and Subjective Wellbeing among Oldest-Old in {{China}}}
+      \field{title}{Intergenerational Support and Subjective Wellbeing among Oldest-Old in {{China}}: The Moderating Role of Economic Status}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{252}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12877-021-02204-y
+      \endverb
+    \endentry
+    \entry{knight.2011.does}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d7c1ea29c1d1d64e19fe44bbc136fe8}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=879b4722008de8a10aa1e84e7df32c2e}{%
+           family={Gunatilaka},
+           familyi={G\bibinitperiod},
+           given={Ramani},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{fullhash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{fullhashraw}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{bibnamehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authorbibnamehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authornamehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authorfullhash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authorfullhashraw}{aacfa4fb67c938562f110d9dc51dc97c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1360-0818, 1469-9966}
+      \field{journaltitle}{Oxford Development Studies}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Oxf. Dev. Stud.}
+      \field{title}{Does Economic Growth Raise Happiness in {{China}}?}
+      \field{volume}{39}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/13600818.2010.551006
+      \endverb
+    \endentry
+    \entry{kwok.2001.use}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f1574caf33289a979c4369deddb23d0b}{%
+           family={Kwok},
+           familyi={K\bibinitperiod},
+           given={R.\bibnamedelimi K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61f30eec5d577750366251b723e0e3fb}{%
+           family={Yankaskas},
+           familyi={Y\bibinitperiod},
+           given={B.\bibnamedelimi C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{fullhash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{fullhashraw}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{bibnamehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authorbibnamehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authornamehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authorfullhash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authorfullhashraw}{3cae1b427af9fd8dce7202fca926032b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1047-2797}
+      \field{journaltitle}{Annals of Epidemiology}
+      \field{month}{1}
+      \field{number}{3}
+      \field{shortjournal}{Ann. Epidemiol.}
+      \field{title}{The Use of Census Data for Determining Race and Education as {{SES}} Indicators: A Validation Study}
+      \field{volume}{11}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{171\bibrangedash 177}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/S1047-2797(00)00205-2
+      \endverb
+      \verb{eprint}
+      \verb 11293403
+      \endverb
+    \endentry
+    \entry{link.1995.social}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=99a19758df48f3ac149a243b9aa069bb}{%
+           family={Link},
+           familyi={L\bibinitperiod},
+           given={B.\bibnamedelimi G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2752cc854171b1a704fc428a213be51}{%
+           family={Phelan},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{fullhash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{fullhashraw}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{bibnamehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authorbibnamehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authornamehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authorfullhash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authorfullhashraw}{0c088b2df43669a25f9b1fa2201387ae}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0022-1465}
+      \field{journaltitle}{Journal of Health and Social Behavior}
+      \field{shortjournal}{J. Health Soc. Behav.}
+      \field{title}{Social Conditions as Fundamental Causes of Disease}
+      \field{volume}{Spec No}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{80\bibrangedash 94}
+      \range{pages}{15}
+      \verb{eprint}
+      \verb 7560851
+      \endverb
+    \endentry
+    \entry{liu.2019.are}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=a33038424cf805efd21e0fd2c01d5be3}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zuyun},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a63ab946f6f2e5ea7087821149c79f3}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95b0fe069ab02871076c61a9a0c4136d}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Qiushi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0c19bbaa5c3e12b7dd3a7a6266492bc}{%
+           family={Dupre},
+           familyi={D\bibinitperiod},
+           given={Matthew\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21b05095f233ddb7743aca60c87e31ca}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Danan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=238ceb180e2bb4e0ef1d2fe7d7f780db}{%
+           family={Allore},
+           familyi={A\bibinitperiod},
+           given={Heather\bibnamedelima G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f8ecae5e7ac0ab85ce27d57fbc9ae7}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{20809230cbc43d2fab06dae8fd76abc8}
+      \strng{fullhash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{fullhashraw}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{bibnamehash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{authorbibnamehash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{authornamehash}{20809230cbc43d2fab06dae8fd76abc8}
+      \strng{authorfullhash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{authorfullhashraw}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1741-7015}
+      \field{journaltitle}{BMC Medicine}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{BMC Med.}
+      \field{shorttitle}{Are China's Oldest-Old Living Longer with Less Disability?}
+      \field{title}{Are China's Oldest-Old Living Longer with Less Disability? {{A}} Longitudinal Modeling Analysis of Birth Cohorts Born 10 Years Apart}
+      \field{volume}{17}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{23}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12916-019-1259-z
+      \endverb
+      \verb{eprint}
+      \verb 30704529
+      \endverb
+    \endentry
+    \entry{lucas.2018.shortterm}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6e01afc8b44f935331ab4e0941e6e6e6}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba428be9c1714df015b77a79531d6fc6}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Vicki\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a359d41a762545053bee116e3eb55ee0}{%
+           family={Cornman},
+           familyi={C\bibinitperiod},
+           given={Jennifer\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{88596ea3c831b87781b8e460dffe51a5}
+      \strng{fullhash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{fullhashraw}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{bibnamehash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{authorbibnamehash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{authornamehash}{88596ea3c831b87781b8e460dffe51a5}
+      \strng{authorfullhash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{authorfullhashraw}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1931-1516}
+      \field{journaltitle}{Emotion}
+      \field{month}{1}
+      \field{number}{7}
+      \field{shortjournal}{Emotion}
+      \field{title}{The Short-Term Stability of Life Satisfaction Judgments}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{1024}
+      \range{pages}{1}
+    \endentry
+    \entry{minagawa.2022.trends}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4668ddf23a6a75f53d03341f4d1d5e1d}{%
+           family={Minagawa},
+           familyi={M\bibinitperiod},
+           given={Yuka},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{fullhash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{fullhashraw}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{bibnamehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authorbibnamehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authornamehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authorfullhash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authorfullhashraw}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{2352-8273}
+      \field{journaltitle}{SSM - Population Health}
+      \field{month}{1}
+      \field{shortjournal}{SSM - Popul. Health}
+      \field{title}{Trends in Happy Life Expectancy in {{Russia}}, 1994-2015}
+      \field{volume}{17}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{101005}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ssmph.2021.101005
+      \endverb
+      \verb{eprint}
+      \verb 34984222
+      \endverb
+    \endentry
+    \entry{nationalbureauofstatisticsofchina.2023.china}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d7cc30621f0abe41fd7164b5cc240d72}{%
+           family={{National Bureau of Statistics of China}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {China Statistics Press}%
+      }
+      \strng{namehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{fullhash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{fullhashraw}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{bibnamehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authorbibnamehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authornamehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authorfullhash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authorfullhashraw}{d7cc30621f0abe41fd7164b5cc240d72}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{China Statistical Yearbook (2023)}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.stats.gov.cn/english/Statisticaldata/
+      \endverb
+      \verb{url}
+      \verb http://www.stats.gov.cn/english/Statisticaldata/
+      \endverb
+    \endentry
+    \entry{nemitz.2022.increasing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed724a3c6e8d6b4b4efc9577b8d02994}{%
+           family={Nemitz},
+           familyi={N\bibinitperiod},
+           given={Janina},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{fullhash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{fullhashraw}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{bibnamehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authorbibnamehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authornamehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authorfullhash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authorfullhashraw}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1432-1475}
+      \field{journaltitle}{Journal of Population Economics}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{J. Popul. Econ.}
+      \field{title}{Increasing Longevity and Life Satisfaction: Is There a Catch to Living Longer?}
+      \field{volume}{35}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{557\bibrangedash 589}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1007/s00148-021-00836-3
+      \endverb
+    \endentry
+    \entry{payne.2022.expansion}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{fullhash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{fullhashraw}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{bibnamehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authorbibnamehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authornamehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authorfullhash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authorfullhashraw}{75145a7a6b43b081ca68dafbeab74dd6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0070-3370, 1533-7790}
+      \field{journaltitle}{Demography}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shortjournal}{Demography}
+      \field{shorttitle}{Expansion, Compression, Neither, Both?}
+      \field{title}{Expansion, Compression, Neither, Both? {{Divergent}} Patterns in Healthy, Disability-Free, and Morbidity-Free Life Expectancy across {{U}}.{{S}}. Birth Cohorts, 1998--2016}
+      \field{volume}{59}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{949\bibrangedash 973}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1215/00703370-9938662
+      \endverb
+      \verb{eprint}
+      \verb 35522071
+      \endverb
+    \endentry
+    \entry{payne.2019.expansion}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5be083125aa94132d02910029d186b7d}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Rebeca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group Ltd}%
+      }
+      \strng{namehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{fullhash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{fullhashraw}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{bibnamehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authorbibnamehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authornamehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authorfullhash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authorfullhashraw}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0143-005X, 1470-2738}
+      \field{journaltitle}{Journal of Epidemiology and Community Health}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shortjournal}{J. Epidemiol. Community Health}
+      \field{shorttitle}{Expansion of Disability across Successive Mexican Birth Cohorts}
+      \field{title}{Expansion of Disability across Successive Mexican Birth Cohorts: A Longitudinal Modelling Analysis of Birth Cohorts Born 10 Years Apart}
+      \field{volume}{73}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{900\bibrangedash 905}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1136/jech-2019-212245
+      \endverb
+      \verb{eprint}
+      \verb 31326892
+      \endverb
+    \endentry
+    \entry{perenboom.2004.trends}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=004c44a248a74f5df66d850fcfe36b64}{%
+           family={Perenboom},
+           familyi={P\bibinitperiod},
+           given={R.J.M.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,useprefix=true,hash=6b97e3da55140a411f2e788b552765a5}{%
+           family={Herten},
+           familyi={H\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=43b4d44f31cfab32aa5302c2384bafa0}{%
+           family={Boshuizen},
+           familyi={B\bibinitperiod},
+           given={H.\bibnamedelimi C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,useprefix=true,hash=23b7da611197324627a7851d5e5bbc39}{%
+           family={Bos},
+           familyi={B\bibinitperiod},
+           given={G.A.M.},
+           giveni={G\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{6b7ea97bb6b25f14187e0e4398b2bccc}
+      \strng{fullhash}{d7898913cb92564074832b9e357aa59e}
+      \strng{fullhashraw}{d7898913cb92564074832b9e357aa59e}
+      \strng{bibnamehash}{d7898913cb92564074832b9e357aa59e}
+      \strng{authorbibnamehash}{d7898913cb92564074832b9e357aa59e}
+      \strng{authornamehash}{6b7ea97bb6b25f14187e0e4398b2bccc}
+      \strng{authorfullhash}{d7898913cb92564074832b9e357aa59e}
+      \strng{authorfullhashraw}{d7898913cb92564074832b9e357aa59e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1573-0921}
+      \field{journaltitle}{Social Indicators Research}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{Social Indic. Res.}
+      \field{title}{Trends in Life Expectancy in Wellbeing}
+      \field{volume}{65}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{227\bibrangedash 244}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1023/A:1025822024481
+      \endverb
+    \endentry
+    \entry{rcoreteam.2023.language}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhashraw}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhashraw}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: {{A}} Language and Environment for Statistical Computing}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{sanders.1964.measuring}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48d2b23c4baf0a95780b5937a4efc911}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Barkev\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Public Health Association}%
+      }
+      \strng{namehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{fullhash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{fullhashraw}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{bibnamehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authorbibnamehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authornamehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authorfullhash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authorfullhashraw}{48d2b23c4baf0a95780b5937a4efc911}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0002-9572}
+      \field{journaltitle}{American Journal of Public Health and the Nations Health}
+      \field{month}{1}
+      \field{number}{7}
+      \field{shortjournal}{Am. J. Public Health Nations Health}
+      \field{title}{Measuring Community Health Levels}
+      \field{volume}{54}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \field{pages}{10631070}
+      \range{pages}{1}
+    \endentry
+    \entry{sasinstituteinc..2016.sas}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cbb46904ca1dee62bd010b68176fee0}{%
+           family={{SAS Institute Inc.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cary, NC}%
+      }
+      \strng{namehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{fullhash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{fullhashraw}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{bibnamehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authorbibnamehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authornamehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authorfullhash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authorfullhashraw}{0cbb46904ca1dee62bd010b68176fee0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{SAS}}/{{STAT}}®{} 14.2 {{User}}'s {{Guide}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{shen.2023.disability}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=448a1366ae9a0c4a2e318f2d4a5f764e}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Tianyu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53207db60ace65055f28feee01653cf6}
+      \strng{fullhash}{53207db60ace65055f28feee01653cf6}
+      \strng{fullhashraw}{53207db60ace65055f28feee01653cf6}
+      \strng{bibnamehash}{53207db60ace65055f28feee01653cf6}
+      \strng{authorbibnamehash}{53207db60ace65055f28feee01653cf6}
+      \strng{authornamehash}{53207db60ace65055f28feee01653cf6}
+      \strng{authorfullhash}{53207db60ace65055f28feee01653cf6}
+      \strng{authorfullhashraw}{53207db60ace65055f28feee01653cf6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{23528273}
+      \field{journaltitle}{SSM - Population Health}
+      \field{month}{12}
+      \field{shortjournal}{SSM - Popul. Health}
+      \field{shorttitle}{Disability and Morbidity among {{US}} Birth Cohorts, 1998--2018}
+      \field{title}{Disability and Morbidity among {{US}} Birth Cohorts, 1998--2018: A Multidimensional Test of Dynamic Equilibrium Theory}
+      \field{volume}{24}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{101528}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ssmph.2023.101528
+      \endverb
+    \endentry
+    \entry{thewhoqolgroup.1998.development}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6cae8de33cd94cd447ba3b44e42e9d58}{%
+           family={{The WHOQOL Group}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{fullhash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{fullhashraw}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{bibnamehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authorbibnamehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authornamehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authorfullhash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authorfullhashraw}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{edition}{1998/05/01}
+      \field{issn}{0033-2917}
+      \field{journaltitle}{Psychological Medicine}
+      \field{month}{1}
+      \field{number}{3}
+      \field{shortjournal}{Psychol. Med.}
+      \field{title}{Development of the World Health Organization {{WHOQOL-BREF}} Quality of Life Assessment}
+      \field{volume}{28}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{551\bibrangedash 558}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/0F50596B33A1ABD59A6605C44A6A8F30
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/0F50596B33A1ABD59A6605C44A6A8F30
+      \endverb
+    \endentry
+    \entry{unitednations.2024.world}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department of Economic and Social Affairs, Population Division}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{number}{UN DESA/POP/2024/DC/NO. 10}
+      \field{title}{World Population Prospects 2024}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://population.un.org/wpp/
+      \endverb
+      \verb{url}
+      \verb https://population.un.org/wpp/
+      \endverb
+    \endentry
+    \entry{veenhoven.1996.study}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c446534e6efdfdca62fd890582abea3}{%
+           family={Veenhoven},
+           familyi={V\bibinitperiod},
+           given={Ruut},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \true{moreeditor}
+      \name{editor}{4}{}{%
+        {{hash=4641cb51760b64086b6d1181d09c63f7}{%
+           family={Saris},
+           familyi={S\bibinitperiod},
+           given={Willem\bibnamedelima E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3c446534e6efdfdca62fd890582abea3}{%
+           family={Veenhoven},
+           familyi={V\bibinitperiod},
+           given={Ruut},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9982b10c2d26e65365571cd05cc9d326}{%
+           family={Scherpenzeel},
+           familyi={S\bibinitperiod},
+           given={Annette\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4457d63ad157979261b9aad4f86ba50c}{%
+           family={Bunting},
+           familyi={B\bibinitperiod},
+           given={Brendan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BudapestEotvos University Press}%
+      }
+      \strng{namehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{fullhash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{fullhashraw}{3c446534e6efdfdca62fd890582abea3}
+      \strng{bibnamehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authorbibnamehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authornamehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authorfullhash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authorfullhashraw}{3c446534e6efdfdca62fd890582abea3}
+      \strng{editorbibnamehash}{5eab9f94fce76d61fded8daff371f20a}
+      \strng{editornamehash}{cef5015853e73600fac58d0da98c2aef}
+      \strng{editorfullhash}{5eab9f94fce76d61fded8daff371f20a}
+      \strng{editorfullhashraw}{5eab9f94fce76d61fded8daff371f20a}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A {{Comparative Study}} of {{Satisfaction}} with {{Life}} in {{Europe}}}
+      \field{day}{1}
+      \field{eprinttype}{hdl}
+      \field{month}{1}
+      \field{title}{The Study of Life-Satisfaction}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1765/16311
+      \endverb
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1765/16311
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1765/16311
+      \endverb
+    \endentry
+    \entry{wan.2024.socioeconomic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3535238c139affbf4add339914fe68ea}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Yunxiang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e28067ef9f07bc713da816279582795d}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Leiwen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Netherlands}%
+      }
+      \strng{namehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{fullhash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{fullhashraw}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{bibnamehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authorbibnamehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authornamehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authorfullhash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authorfullhashraw}{9709b130bf4da615d8ebf3b8314f0307}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1389-4978, 1573-7780}
+      \field{journaltitle}{Journal of Happiness Studies}
+      \field{month}{10}
+      \field{number}{7}
+      \field{shortjournal}{J. Happiness Stud.}
+      \field{title}{Socioeconomic Differences in Happy Life Expectancy among Older Adults in {{China}}}
+      \field{volume}{25}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{87}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10902-024-00789-w
+      \endverb
+    \endentry
+    \entry{wang.2023.hierarchical}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=400deaba60e893642a02ba0f84b4fa40}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peigang},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=400deaba60e893642a02ba0f84b4fa40}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peigang},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Singapore}%
+      }
+      \strng{namehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{fullhash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{fullhashraw}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bibnamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authorbibnamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authornamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authorfullhash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authorfullhashraw}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthorbibnamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthornamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthorfullhash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthorfullhashraw}{400deaba60e893642a02ba0f84b4fa40}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Study on {{Quality}} of {{Life}} of {{Chinese Residents}} with {{Social Change}}}
+      \field{isbn}{978-981-99-2220-8 978-981-99-2221-5}
+      \field{title}{A Hierarchical Age-Period-Cohort Analysis of Social Change and Happiness}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{129\bibrangedash 145}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-981-99-2221-5_8
+      \endverb
+    \endentry
+    \entry{yang.2024.gender}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=65e17525e4a3b4333ddf8c3334774282}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jidong},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a6b67b9ec60bc48a8b0bdad41f6246f6}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Yunqi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a6c52d965fe98e402306b0e062c1513}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xianghong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6e728650e7a23d74a312b700c16d6d48}
+      \strng{fullhash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{fullhashraw}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{bibnamehash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{authorbibnamehash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{authornamehash}{6e728650e7a23d74a312b700c16d6d48}
+      \strng{authorfullhash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{authorfullhashraw}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1354-5701}
+      \field{journaltitle}{Feminist Economics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Fem. Econ.}
+      \field{title}{The Gender Happiness Gap in {{China}}: Composition Effect or Coefficient Effect?}
+      \field{volume}{30}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{70\bibrangedash 105}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1080/13545701.2023.2279212
+      \endverb
+    \endentry
+    \entry{yang.2008.long}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=d9da4a23ca804cbf6aff5760349ec643}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{fullhash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{fullhashraw}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{bibnamehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authorbibnamehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authornamehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authorfullhash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authorfullhashraw}{d9da4a23ca804cbf6aff5760349ec643}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0049089X}
+      \field{journaltitle}{Social Science Research}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Soc. Sci. Res.}
+      \field{shorttitle}{Long and Happy Living}
+      \field{title}{Long and Happy Living: Trends and Patterns of Happy Life Expectancy in the {{U}}.{{S}}., 1970--2000}
+      \field{volume}{37}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{1235\bibrangedash 1252}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.ssresearch.2007.07.004
+      \endverb
+      \verb{eprint}
+      \verb 19227700
+      \endverb
+    \endentry
+    \entry{yang.2010.increment}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=d9da4a23ca804cbf6aff5760349ec643}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=95f5d41484cd8562bdcea0ec0dd4b045}{%
+           family={Waliji},
+           familyi={W\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Netherlands}%
+      }
+      \strng{namehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{fullhash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{fullhashraw}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{bibnamehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authorbibnamehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authornamehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authorfullhash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authorfullhashraw}{733e21ed30cd7803d6e362711efbf8c8}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1573-7829}
+      \field{journaltitle}{Population Research and Policy Review}
+      \field{month}{1}
+      \field{number}{6}
+      \field{shortjournal}{Popul. Res. Policy Rev.}
+      \field{title}{Increment--Decrement Life Table Estimates of Happy Life Expectancy for the {{U}}.{{S}}. Population}
+      \field{volume}{29}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{775\bibrangedash 795}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s11113-009-9162-5
+      \endverb
+    \endentry
+    \entry{zeng.2008.introduction}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60c00f70f37621de7cc58e36574885af}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Dordrecht}%
+      }
+      \strng{namehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{fullhash}{60c00f70f37621de7cc58e36574885af}
+      \strng{fullhashraw}{60c00f70f37621de7cc58e36574885af}
+      \strng{bibnamehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authorbibnamehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authornamehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authorfullhash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authorfullhashraw}{60c00f70f37621de7cc58e36574885af}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Healthy {{Longevity}} in {{China}}}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Introduction to the Chinese Longitudinal Healthy Longevity Survey ({{CLHLS}})}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{23\bibrangedash 38}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-6752-5_2
+      \endverb
+    \endentry
+    \entry{zhao.2023.chinas}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7cd1328c3f3748eb601058955880c18e}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Litao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{fullhash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{fullhashraw}{7cd1328c3f3748eb601058955880c18e}
+      \strng{bibnamehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authorbibnamehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authornamehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authorfullhash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authorfullhashraw}{7cd1328c3f3748eb601058955880c18e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{9}
+      \field{eprinttype}{pubmed}
+      \field{issn}{2771-1749}
+      \field{journaltitle}{Health Care Science}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{Health Care Sci.}
+      \field{shorttitle}{China's Aging Population}
+      \field{title}{China's Aging Population: A Review of Living Arrangement, Intergenerational Support, and Wellbeing}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{317\bibrangedash 327}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1002/hcs2.64
+      \endverb
+      \verb{eprint}
+      \verb 38938584
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{baur.1983.stability}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c7ee6e562b5e7ecc259347a19d9e65ce}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e0534199b64077543472364d5ef1dbe}{%
+           family={Okun},
+           familyi={O\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{fullhash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{fullhashraw}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{bibnamehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authorbibnamehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authornamehash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authorfullhash}{109da5e60b12d38db3e4ea9e1002ec87}
+      \strng{authorfullhashraw}{109da5e60b12d38db3e4ea9e1002ec87}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0016-9013, 1758-5341}
+      \field{journaltitle}{Gerontologist}
+      \field{month}{6}
+      \field{number}{3}
+      \field{pagetotal}{7}
+      \field{shortjournal}{Gerontologist}
+      \field{title}{Stability of Life Satisfaction in Late Life}
+      \field{volume}{23}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{pages}{261\bibrangedash 265}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1093/geront/23.3.261
+      \endverb
+      \verb{eprint}
+      \verb 6873694
+      \endverb
+    \endentry
+    \entry{cai.2023.does}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=1,uniquepart=given,hash=766d6b695906a961c8a1c5dfae81f0af}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Huajian},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=1e7755213d90997b9a16243417dfbe6b}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Jingqi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f168422ce4850696dc051ebbc328a3a5}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Zhan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bfd30e1399c9a46ce5e80b924ffd942}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoou},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44fe9d026d806f0abb4f0e3257b05a58}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Zihang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30dd6ae88a111268fe42b55e0fca30f0}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Yiming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be24b6cf6095c0ac83224e732a1d7e9c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ziyan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ec73bc6aedc1cdcd2ba99e283819a0b}
+      \strng{fullhash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{fullhashraw}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{bibnamehash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{authorbibnamehash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{authornamehash}{1ec73bc6aedc1cdcd2ba99e283819a0b}
+      \strng{authorfullhash}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \strng{authorfullhashraw}{d6c3729d5e6f2c1f25aff8566cb67811}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1948-5506, 1948-5514}
+      \field{journaltitle}{Social Psychological and Personality Science}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{Soc. Psychol. Pers. Sci.}
+      \field{shorttitle}{Does Economic Growth Raise Happiness in {{China}}?}
+      \field{title}{Does Economic Growth Raise Happiness in {{China}}? {{A}} Comprehensive Reexamination}
+      \field{volume}{14}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{238\bibrangedash 248}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/19485506221089804
+      \endverb
+    \endentry
+    \entry{cai.2010.estimation}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=79d312239a234746632897639a3be1ff}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Liming},
+           giveni={L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a76fab24bb322aa280fd199b657941c9}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69bc677f45c9fa3a795f0ef31c533ab3}{%
+           family={Saito},
+           familyi={S\bibinitperiod},
+           given={Yasuhiko},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc07dc768c66ca61bfd235748a64a18d}{%
+           family={Lubitz},
+           familyi={L\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b48481a2253ebf191a82108885e10f63}{%
+           family={Hagedorn},
+           familyi={H\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e6f4a075acba5fef72b702bc04e8ba1}{%
+           family={Crimmins},
+           familyi={C\bibinitperiod},
+           given={Eileen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{686cd2e8dbce27853d98545567666bbc}
+      \strng{fullhash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{fullhashraw}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{bibnamehash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{authorbibnamehash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{authornamehash}{686cd2e8dbce27853d98545567666bbc}
+      \strng{authorfullhash}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \strng{authorfullhashraw}{1f5d765a52f6bf33c11198a940ec4ad7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1435-9871}
+      \field{journaltitle}{Demographic Research}
+      \field{month}{1}
+      \field{number}{6}
+      \field{shortjournal}{Demogr. Res.}
+      \field{title}{Estimation of Multi-State Life Table Functions and Their Variability from Complex Survey Data Using the {{SPACE}} Program}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{129\bibrangedash 158}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.4054/DemRes.2010.22.6
+      \endverb
+      \verb{eprint}
+      \verb 20463842
+      \endverb
+    \endentry
+    \entry{centerforhealthyaginganddevelopmentstudies.2020.chinese}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ad4096969b8fee06fe57915ac457d312}{%
+           family={{Center for Healthy Aging and Development Studies}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Peking University Open Research Data Platform}%
+      }
+      \strng{namehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{fullhash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{fullhashraw}{ad4096969b8fee06fe57915ac457d312}
+      \strng{bibnamehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authorbibnamehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authornamehash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authorfullhash}{ad4096969b8fee06fe57915ac457d312}
+      \strng{authorfullhashraw}{ad4096969b8fee06fe57915ac457d312}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{The Chinese Longitudinal Healthy Longevity Survey({{CLHLS}})}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.18170/DVN/WBO7LK
+      \endverb
+    \endentry
+    \entry{cheng.2021.sociodemographic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=421032d2190d40b6f8bfacfad643f218}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7991a015696b3862155dff66c97e619b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{fullhash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{fullhashraw}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{bibnamehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authorbibnamehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authornamehash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authorfullhash}{0f72a70eafe014a63ff771ad2c74555b}
+      \strng{authorfullhashraw}{0f72a70eafe014a63ff771ad2c74555b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{16}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1471-2318}
+      \field{journaltitle}{BMC Geriatrics}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shortjournal}{BMC Geriatr.}
+      \field{shorttitle}{Sociodemographic, Health-Related, and Social Predictors of Subjective Well-Being among Chinese Oldest-Old}
+      \field{title}{Sociodemographic, Health-Related, and Social Predictors of Subjective Well-Being among Chinese Oldest-Old: A National Community-Based Cohort Study}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{124}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12877-021-02071-7
+      \endverb
+      \verb{eprint}
+      \verb 33593298
+      \endverb
+    \endentry
+    \entry{dong.2017.exploring}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ea4a980a1171f2b40739d2c547ba49b5}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Hongwei},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11118063c04a078e52b9515b1b93ceec}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{fullhash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{fullhashraw}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{bibnamehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authorbibnamehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authornamehash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authorfullhash}{42f948f7a6250fcd69539db3a5b6eba6}
+      \strng{authorfullhashraw}{42f948f7a6250fcd69539db3a5b6eba6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{issn}{0169-2046}
+      \field{journaltitle}{Landscape and Urban Planning}
+      \field{month}{8}
+      \field{shortjournal}{Landscape Urban Plann.}
+      \field{shorttitle}{Exploring the Link between Neighborhood Environment and Mental Wellbeing}
+      \field{title}{Exploring the Link between Neighborhood Environment and Mental Wellbeing: A Case Study in Beijing, China}
+      \field{volume}{164}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{71\bibrangedash 80}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.landurbplan.2017.04.005
+      \endverb
+    \endentry
+    \entry{duan.2020.happy}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d08a1d79c9107c2d0e906ad33fa8ef11}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Yuanyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06debc36f6b61a405e8f0da1c7ccd6ca}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Singapore}%
+      }
+      \strng{namehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{fullhash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{fullhashraw}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{bibnamehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authorbibnamehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authornamehash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authorfullhash}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \strng{authorfullhashraw}{2ccdc76590e5780c1ac8c3a1ab95db4b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2096-448X, 2523-8965}
+      \field{journaltitle}{China Population and Development Studies}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shortjournal}{China Popul. Dev. Stud.}
+      \field{title}{Happy Life Expectancy in {{China}}}
+      \field{volume}{3}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{218\bibrangedash 236}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s42379-020-00046-6
+      \endverb
+    \endentry
+    \entry{dugoff.2014.generalizing}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4e98aafd1503c1eed35ddd004c128af4}{%
+           family={DuGoff},
+           familyi={D\bibinitperiod},
+           given={Eva\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=528b7dd8b82b3da643a4d52b49440743}{%
+           family={Schuler},
+           familyi={S\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc9216d91954f9b5dc8d8a294d4c2611}{%
+           family={Stuart},
+           familyi={S\bibinitperiod},
+           given={Elizabeth\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3375192a1cc8a45b2a0f1dd8ca9dae3}
+      \strng{fullhash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{fullhashraw}{eb609a2218399341e2b14adc17e0618d}
+      \strng{bibnamehash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{authorbibnamehash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{authornamehash}{a3375192a1cc8a45b2a0f1dd8ca9dae3}
+      \strng{authorfullhash}{eb609a2218399341e2b14adc17e0618d}
+      \strng{authorfullhashraw}{eb609a2218399341e2b14adc17e0618d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0017-9124, 1475-6773}
+      \field{journaltitle}{Health Services Research}
+      \field{month}{2}
+      \field{number}{1}
+      \field{shortjournal}{Health Serv. Res.}
+      \field{shorttitle}{Generalizing Observational Study Results}
+      \field{title}{Generalizing Observational Study Results: Applying Propensity Score Methods to Complex Surveys}
+      \field{volume}{49}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{284\bibrangedash 303}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/1475-6773.12090
+      \endverb
+    \endentry
+    \entry{easterlin.1974.does}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4e5df5ca42caf0af188cce3d0250279e}{%
+           family={Easterlin},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4b622b714a379377cfaf27df6f9901d0}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e2e06044f2a91b97e06dc20e25f20bc7}{%
+           family={Reder},
+           familyi={R\bibinitperiod},
+           given={Melvin\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{fullhash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{fullhashraw}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{bibnamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorbibnamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authornamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorfullhash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorfullhashraw}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{editorbibnamehash}{9eee88cda99c4bc36409620b882ac07e}
+      \strng{editornamehash}{9eee88cda99c4bc36409620b882ac07e}
+      \strng{editorfullhash}{9eee88cda99c4bc36409620b882ac07e}
+      \strng{editorfullhashraw}{9eee88cda99c4bc36409620b882ac07e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Nations and {{Households}} in {{Economic Growth}}}
+      \field{day}{1}
+      \field{isbn}{978-0-12-205050-3}
+      \field{month}{1}
+      \field{shorttitle}{Does Economic Growth Improve the Human Lot?}
+      \field{title}{Does Economic Growth Improve the Human Lot? {{Some}} Empirical Evidence}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{pages}{89\bibrangedash 125}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-205050-3.50008-7
+      \endverb
+    \endentry
+    \entry{easterlin.2012.chinas}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4e5df5ca42caf0af188cce3d0250279e}{%
+           family={Easterlin},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87e2647f1a9432f873c5c7a18f5b7fb2}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Robson},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc55dc9915ff7597c34f4d8274829c98}{%
+           family={Switek},
+           familyi={S\bibinitperiod},
+           given={Malgorzata},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60af9bc009f709103e587bb92cee1cda}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences; Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{fullhash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{fullhashraw}{9d89a544b226badee03418663c5f8f3f}
+      \strng{bibnamehash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{authorbibnamehash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{authornamehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{authorfullhash}{9d89a544b226badee03418663c5f8f3f}
+      \strng{authorfullhashraw}{9d89a544b226badee03418663c5f8f3f}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{6}
+      \field{number}{25}
+      \field{shortjournal}{Proc. Natl. Acad. Sci.}
+      \field{title}{China's Life Satisfaction, 1990--2010}
+      \field{volume}{109}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{9775\bibrangedash 9780}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.1205672109
+      \endverb
+      \verb{eprint}
+      \verb 22586096
+      \endverb
+    \endentry
+    \entry{easterlin.2021.growth}{inbook}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4e5df5ca42caf0af188cce3d0250279e}{%
+           family={Easterlin},
+           familyi={E\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60af9bc009f709103e587bb92cee1cda}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=322023c9768a1822b55d801bd7a986e1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=1b4daa6c3dac4b68214890acea13c4b8}{%
+           family={Bruni},
+           familyi={B\bibinitperiod},
+           given={Luigino},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1267129e4eba766ae96f3cfca2f8a2b9}{%
+           family={Smerilli},
+           familyi={S\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9fa94d713156dca79b412cee4d462672}{%
+           family={De\bibnamedelima Rosa},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Dalila},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham UK; Northampton MA}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{fullhash}{3e3fe44097133614b152673c34def3c5}
+      \strng{fullhashraw}{3e3fe44097133614b152673c34def3c5}
+      \strng{bibnamehash}{3e3fe44097133614b152673c34def3c5}
+      \strng{authorbibnamehash}{3e3fe44097133614b152673c34def3c5}
+      \strng{authornamehash}{a804440e8416f53d5b1d492669fd75bf}
+      \strng{authorfullhash}{3e3fe44097133614b152673c34def3c5}
+      \strng{authorfullhashraw}{3e3fe44097133614b152673c34def3c5}
+      \strng{editorbibnamehash}{3adc926936e5b44575da327cc9b14448}
+      \strng{editornamehash}{1797ad36a6cf04ae92559282151f3f55}
+      \strng{editorfullhash}{3adc926936e5b44575da327cc9b14448}
+      \strng{editorfullhashraw}{3adc926936e5b44575da327cc9b14448}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A {{Modern Guide}} to the {{Economics}} of {{Happiness}}}
+      \field{day}{15}
+      \field{isbn}{978-1-78897-876-7 978-1-78897-875-0}
+      \field{month}{1}
+      \field{series}{Elgar Modern Guides}
+      \field{title}{Growth and Happiness in {{China}}, 1990--2015}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.4337/9781788978767.00017
+      \endverb
+    \endentry
+    \entry{feng.2024.gender}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b6556862203221b5a8699eab4cb8113}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Jianxi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f642df23109af1151a0e94ce894e71c6}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{fullhash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{fullhashraw}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{bibnamehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authorbibnamehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authornamehash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authorfullhash}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \strng{authorfullhashraw}{0f3c7c2d3f81435935c0c08c839cdf6f}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{30}
+      \field{issn}{2296-2565}
+      \field{journaltitle}{Frontiers in Public Health}
+      \field{month}{8}
+      \field{shortjournal}{Front. Public Health}
+      \field{shorttitle}{Gender Differences in the Subjective Wellbeing of the Older Adults and the Determinant Factors}
+      \field{title}{Gender Differences in the Subjective Wellbeing of the Older Adults and the Determinant Factors: A Case Study of Nanjing}
+      \field{volume}{12}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpubh.2024.1447777
+      \endverb
+    \endentry
+    \entry{fries.1980.aging}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=209c815174858efb7fd1f4f4ad934fe1}{%
+           family={Fries},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {New England Journal of Medicine}%
+      }
+      \list{publisher}{1}{%
+        {Massachusetts Medical Society}%
+      }
+      \strng{namehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{fullhash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{fullhashraw}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{bibnamehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authorbibnamehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authornamehash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authorfullhash}{209c815174858efb7fd1f4f4ad934fe1}
+      \strng{authorfullhashraw}{209c815174858efb7fd1f4f4ad934fe1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{7}
+      \field{title}{Aging, Natural Death, and the Compression of Morbidity}
+      \field{type}{research-article}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1056/NEJM198007173030304
+      \endverb
+    \endentry
+    \entry{george.2010.still}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ca1b130e8ace3ecdd6914a4a744c482}{%
+           family={George},
+           familyi={G\bibinitperiod},
+           given={Linda\bibnamedelima K.},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Academic}%
+      }
+      \strng{namehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{fullhash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{fullhashraw}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{bibnamehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authorbibnamehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authornamehash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authorfullhash}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \strng{authorfullhashraw}{2ca1b130e8ace3ecdd6914a4a744c482}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1079-5014}
+      \field{journaltitle}{The Journals of Gerontology: Series B}
+      \field{month}{1}
+      \field{number}{3}
+      \field{shortjournal}{J. Gerontol.: B}
+      \field{title}{Still Happy after All These Years: Research Frontiers on Subjective Well-Being in Later Life}
+      \field{volume}{65B}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{331\bibrangedash 339}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/geronb/gbq006
+      \endverb
+      \verb{eprint}
+      \verb 20233742
+      \endverb
+    \endentry
+    \entry{graham.2017.happiness}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c83918ddaa42237848bfd7364112047b}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b159988ca0fc8b23ab71f3f9b787168e}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Shaojie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aee2c60a4a349857cf00a72fd46ed43a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Junyi},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84b7622daecd803e46ba1c8678cccbb6}
+      \strng{fullhash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{fullhashraw}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{bibnamehash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{authorbibnamehash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{authornamehash}{84b7622daecd803e46ba1c8678cccbb6}
+      \strng{authorfullhash}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \strng{authorfullhashraw}{22ac0f3deb3e53e9b9b9726dcb9d6e35}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0305750X}
+      \field{journaltitle}{World Development}
+      \field{month}{8}
+      \field{shortjournal}{World Dev.}
+      \field{shorttitle}{Happiness and Health in {{China}}}
+      \field{title}{Happiness and Health in {{China}}: The Paradox of Progress}
+      \field{volume}{96}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{231\bibrangedash 244}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.worlddev.2017.03.009
+      \endverb
+    \endentry
+    \entry{gruenberg.1977.failures}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04e390761167d79c09f3552362eaaf34}{%
+           family={Gruenberg},
+           familyi={G\bibinitperiod},
+           given={Ernest\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {[Milbank Memorial Fund, Wiley]}%
+      }
+      \strng{namehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{fullhash}{04e390761167d79c09f3552362eaaf34}
+      \strng{fullhashraw}{04e390761167d79c09f3552362eaaf34}
+      \strng{bibnamehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authorbibnamehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authornamehash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authorfullhash}{04e390761167d79c09f3552362eaaf34}
+      \strng{authorfullhashraw}{04e390761167d79c09f3552362eaaf34}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{0160-1997}
+      \field{journaltitle}{Milbank Memorial Fund Quarterly. Health and Society}
+      \field{number}{1}
+      \field{shortjournal}{Milbank Mem. Fund Q. Health Soc.}
+      \field{title}{The Failures of Success}
+      \field{volume}{55}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 24}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.2307/3349592
+      \endverb
+      \verb{eprint}
+      \verb 3349592
+      \endverb
+    \endentry
+    \entry{gu.2008.general}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=21b05095f233ddb7743aca60c87e31ca}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Danan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Dordrecht}%
+      }
+      \strng{namehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{fullhash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{fullhashraw}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{bibnamehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authorbibnamehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authornamehash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authorfullhash}{21b05095f233ddb7743aca60c87e31ca}
+      \strng{authorfullhashraw}{21b05095f233ddb7743aca60c87e31ca}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Healthy {{Longevity}} in {{China}}}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{General Data Quality Assessment of the {{CLHLS}}}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 60}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-6752-5_3
+      \endverb
+    \endentry
+    \entry{guo.2024.regional}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5ea8e3f273f1ea2b70b11f9610020bd0}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yuanzhi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=659c0319d9701bc51c5b01816c4f7cd2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xuhong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{fullhash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{fullhashraw}{0dda6334d035deadaa03fb5666af728d}
+      \strng{bibnamehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authorbibnamehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authornamehash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authorfullhash}{0dda6334d035deadaa03fb5666af728d}
+      \strng{authorfullhashraw}{0dda6334d035deadaa03fb5666af728d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{24058440}
+      \field{journaltitle}{Heliyon}
+      \field{month}{2}
+      \field{number}{4}
+      \field{shortjournal}{Heliyon}
+      \field{shorttitle}{Regional Inequality in {{China}}'s Educational Development}
+      \field{title}{Regional Inequality in {{China}}'s Educational Development: An Urban-Rural Comparison}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{e26249}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e26249
+      \endverb
+      \verb{eprint}
+      \verb 38379968
+      \endverb
+    \endentry
+    \entry{huang.2021.intergenerational}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9c7999297a96ea67d9bb825df1126b23}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Fanghong},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=960d602ff0b905258f3a145baf5c0941}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Peipei},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{fullhash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{fullhashraw}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{bibnamehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authorbibnamehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authornamehash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authorfullhash}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \strng{authorfullhashraw}{1f66fb07df5bd5acf2e0f903f45208a2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{15}
+      \field{issn}{1471-2318}
+      \field{journaltitle}{BMC Geriatrics}
+      \field{month}{4}
+      \field{number}{1}
+      \field{shortjournal}{BMC Geriatr.}
+      \field{shorttitle}{Intergenerational Support and Subjective Wellbeing among Oldest-Old in {{China}}}
+      \field{title}{Intergenerational Support and Subjective Wellbeing among Oldest-Old in {{China}}: The Moderating Role of Economic Status}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{252}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12877-021-02204-y
+      \endverb
+    \endentry
+    \entry{knight.2011.does}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d7c1ea29c1d1d64e19fe44bbc136fe8}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=879b4722008de8a10aa1e84e7df32c2e}{%
+           family={Gunatilaka},
+           familyi={G\bibinitperiod},
+           given={Ramani},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{fullhash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{fullhashraw}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{bibnamehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authorbibnamehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authornamehash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authorfullhash}{aacfa4fb67c938562f110d9dc51dc97c}
+      \strng{authorfullhashraw}{aacfa4fb67c938562f110d9dc51dc97c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1360-0818, 1469-9966}
+      \field{journaltitle}{Oxford Development Studies}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Oxf. Dev. Stud.}
+      \field{title}{Does Economic Growth Raise Happiness in {{China}}?}
+      \field{volume}{39}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/13600818.2010.551006
+      \endverb
+    \endentry
+    \entry{kwok.2001.use}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f1574caf33289a979c4369deddb23d0b}{%
+           family={Kwok},
+           familyi={K\bibinitperiod},
+           given={R.\bibnamedelimi K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61f30eec5d577750366251b723e0e3fb}{%
+           family={Yankaskas},
+           familyi={Y\bibinitperiod},
+           given={B.\bibnamedelimi C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{fullhash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{fullhashraw}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{bibnamehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authorbibnamehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authornamehash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authorfullhash}{3cae1b427af9fd8dce7202fca926032b}
+      \strng{authorfullhashraw}{3cae1b427af9fd8dce7202fca926032b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1047-2797}
+      \field{journaltitle}{Annals of Epidemiology}
+      \field{month}{1}
+      \field{number}{3}
+      \field{shortjournal}{Ann. Epidemiol.}
+      \field{title}{The Use of Census Data for Determining Race and Education as {{SES}} Indicators: A Validation Study}
+      \field{volume}{11}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{171\bibrangedash 177}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/S1047-2797(00)00205-2
+      \endverb
+      \verb{eprint}
+      \verb 11293403
+      \endverb
+    \endentry
+    \entry{link.1995.social}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=99a19758df48f3ac149a243b9aa069bb}{%
+           family={Link},
+           familyi={L\bibinitperiod},
+           given={B.\bibnamedelimi G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2752cc854171b1a704fc428a213be51}{%
+           family={Phelan},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{fullhash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{fullhashraw}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{bibnamehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authorbibnamehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authornamehash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authorfullhash}{0c088b2df43669a25f9b1fa2201387ae}
+      \strng{authorfullhashraw}{0c088b2df43669a25f9b1fa2201387ae}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0022-1465}
+      \field{journaltitle}{Journal of Health and Social Behavior}
+      \field{shortjournal}{J. Health Soc. Behav.}
+      \field{title}{Social Conditions as Fundamental Causes of Disease}
+      \field{volume}{Spec No}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{80\bibrangedash 94}
+      \range{pages}{15}
+      \verb{eprint}
+      \verb 7560851
+      \endverb
+    \endentry
+    \entry{liu.2019.are}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=a33038424cf805efd21e0fd2c01d5be3}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zuyun},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a63ab946f6f2e5ea7087821149c79f3}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95b0fe069ab02871076c61a9a0c4136d}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Qiushi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0c19bbaa5c3e12b7dd3a7a6266492bc}{%
+           family={Dupre},
+           familyi={D\bibinitperiod},
+           given={Matthew\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21b05095f233ddb7743aca60c87e31ca}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Danan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=238ceb180e2bb4e0ef1d2fe7d7f780db}{%
+           family={Allore},
+           familyi={A\bibinitperiod},
+           given={Heather\bibnamedelima G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86f8ecae5e7ac0ab85ce27d57fbc9ae7}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{20809230cbc43d2fab06dae8fd76abc8}
+      \strng{fullhash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{fullhashraw}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{bibnamehash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{authorbibnamehash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{authornamehash}{20809230cbc43d2fab06dae8fd76abc8}
+      \strng{authorfullhash}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \strng{authorfullhashraw}{72b1d9372ae9b6b4666bd8518fd187ae}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{1741-7015}
+      \field{journaltitle}{BMC Medicine}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{BMC Med.}
+      \field{shorttitle}{Are China's Oldest-Old Living Longer with Less Disability?}
+      \field{title}{Are China's Oldest-Old Living Longer with Less Disability? {{A}} Longitudinal Modeling Analysis of Birth Cohorts Born 10 Years Apart}
+      \field{volume}{17}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{23}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12916-019-1259-z
+      \endverb
+      \verb{eprint}
+      \verb 30704529
+      \endverb
+    \endentry
+    \entry{lucas.2018.shortterm}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6e01afc8b44f935331ab4e0941e6e6e6}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba428be9c1714df015b77a79531d6fc6}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Vicki\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a359d41a762545053bee116e3eb55ee0}{%
+           family={Cornman},
+           familyi={C\bibinitperiod},
+           given={Jennifer\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{88596ea3c831b87781b8e460dffe51a5}
+      \strng{fullhash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{fullhashraw}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{bibnamehash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{authorbibnamehash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{authornamehash}{88596ea3c831b87781b8e460dffe51a5}
+      \strng{authorfullhash}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \strng{authorfullhashraw}{0e4e136635f5d94c1f5f26efc32ce31b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1931-1516}
+      \field{journaltitle}{Emotion}
+      \field{month}{1}
+      \field{number}{7}
+      \field{shortjournal}{Emotion}
+      \field{title}{The Short-Term Stability of Life Satisfaction Judgments}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{1024}
+      \range{pages}{1}
+    \endentry
+    \entry{minagawa.2022.trends}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4668ddf23a6a75f53d03341f4d1d5e1d}{%
+           family={Minagawa},
+           familyi={M\bibinitperiod},
+           given={Yuka},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{fullhash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{fullhashraw}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{bibnamehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authorbibnamehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authornamehash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authorfullhash}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \strng{authorfullhashraw}{4668ddf23a6a75f53d03341f4d1d5e1d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{2352-8273}
+      \field{journaltitle}{SSM - Population Health}
+      \field{month}{1}
+      \field{shortjournal}{SSM - Popul. Health}
+      \field{title}{Trends in Happy Life Expectancy in {{Russia}}, 1994-2015}
+      \field{volume}{17}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{101005}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ssmph.2021.101005
+      \endverb
+      \verb{eprint}
+      \verb 34984222
+      \endverb
+    \endentry
+    \entry{nationalbureauofstatisticsofchina.2023.china}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d7cc30621f0abe41fd7164b5cc240d72}{%
+           family={{National Bureau of Statistics of China}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {China Statistics Press}%
+      }
+      \strng{namehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{fullhash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{fullhashraw}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{bibnamehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authorbibnamehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authornamehash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authorfullhash}{d7cc30621f0abe41fd7164b5cc240d72}
+      \strng{authorfullhashraw}{d7cc30621f0abe41fd7164b5cc240d72}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{China Statistical Yearbook (2023)}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.stats.gov.cn/english/Statisticaldata/
+      \endverb
+      \verb{url}
+      \verb http://www.stats.gov.cn/english/Statisticaldata/
+      \endverb
+    \endentry
+    \entry{nemitz.2022.increasing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed724a3c6e8d6b4b4efc9577b8d02994}{%
+           family={Nemitz},
+           familyi={N\bibinitperiod},
+           given={Janina},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{fullhash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{fullhashraw}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{bibnamehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authorbibnamehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authornamehash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authorfullhash}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \strng{authorfullhashraw}{ed724a3c6e8d6b4b4efc9577b8d02994}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1432-1475}
+      \field{journaltitle}{Journal of Population Economics}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{J. Popul. Econ.}
+      \field{title}{Increasing Longevity and Life Satisfaction: Is There a Catch to Living Longer?}
+      \field{volume}{35}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{557\bibrangedash 589}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1007/s00148-021-00836-3
+      \endverb
+    \endentry
+    \entry{payne.2022.expansion}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{fullhash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{fullhashraw}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{bibnamehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authorbibnamehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authornamehash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authorfullhash}{75145a7a6b43b081ca68dafbeab74dd6}
+      \strng{authorfullhashraw}{75145a7a6b43b081ca68dafbeab74dd6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0070-3370, 1533-7790}
+      \field{journaltitle}{Demography}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shortjournal}{Demography}
+      \field{shorttitle}{Expansion, Compression, Neither, Both?}
+      \field{title}{Expansion, Compression, Neither, Both? {{Divergent}} Patterns in Healthy, Disability-Free, and Morbidity-Free Life Expectancy across {{U}}.{{S}}. Birth Cohorts, 1998--2016}
+      \field{volume}{59}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{949\bibrangedash 973}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1215/00703370-9938662
+      \endverb
+      \verb{eprint}
+      \verb 35522071
+      \endverb
+    \endentry
+    \entry{payne.2019.expansion}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5be083125aa94132d02910029d186b7d}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Rebeca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BMJ Publishing Group Ltd}%
+      }
+      \strng{namehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{fullhash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{fullhashraw}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{bibnamehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authorbibnamehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authornamehash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authorfullhash}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \strng{authorfullhashraw}{b6bbbcbd3f85d39b2e86f47d4e3a68ab}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0143-005X, 1470-2738}
+      \field{journaltitle}{Journal of Epidemiology and Community Health}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shortjournal}{J. Epidemiol. Community Health}
+      \field{shorttitle}{Expansion of Disability across Successive Mexican Birth Cohorts}
+      \field{title}{Expansion of Disability across Successive Mexican Birth Cohorts: A Longitudinal Modelling Analysis of Birth Cohorts Born 10 Years Apart}
+      \field{volume}{73}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{900\bibrangedash 905}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1136/jech-2019-212245
+      \endverb
+      \verb{eprint}
+      \verb 31326892
+      \endverb
+    \endentry
+    \entry{perenboom.2004.trends}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=004c44a248a74f5df66d850fcfe36b64}{%
+           family={Perenboom},
+           familyi={P\bibinitperiod},
+           given={R.J.M.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,useprefix=true,hash=6b97e3da55140a411f2e788b552765a5}{%
+           family={Herten},
+           familyi={H\bibinitperiod},
+           given={L.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=43b4d44f31cfab32aa5302c2384bafa0}{%
+           family={Boshuizen},
+           familyi={B\bibinitperiod},
+           given={H.\bibnamedelimi C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,useprefix=true,hash=23b7da611197324627a7851d5e5bbc39}{%
+           family={Bos},
+           familyi={B\bibinitperiod},
+           given={G.A.M.},
+           giveni={G\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{6b7ea97bb6b25f14187e0e4398b2bccc}
+      \strng{fullhash}{d7898913cb92564074832b9e357aa59e}
+      \strng{fullhashraw}{d7898913cb92564074832b9e357aa59e}
+      \strng{bibnamehash}{d7898913cb92564074832b9e357aa59e}
+      \strng{authorbibnamehash}{d7898913cb92564074832b9e357aa59e}
+      \strng{authornamehash}{6b7ea97bb6b25f14187e0e4398b2bccc}
+      \strng{authorfullhash}{d7898913cb92564074832b9e357aa59e}
+      \strng{authorfullhashraw}{d7898913cb92564074832b9e357aa59e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1573-0921}
+      \field{journaltitle}{Social Indicators Research}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{Social Indic. Res.}
+      \field{title}{Trends in Life Expectancy in Wellbeing}
+      \field{volume}{65}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{227\bibrangedash 244}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1023/A:1025822024481
+      \endverb
+    \endentry
+    \entry{rcoreteam.2023.language}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhashraw}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhashraw}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: {{A}} Language and Environment for Statistical Computing}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{sanders.1964.measuring}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48d2b23c4baf0a95780b5937a4efc911}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Barkev\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Public Health Association}%
+      }
+      \strng{namehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{fullhash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{fullhashraw}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{bibnamehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authorbibnamehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authornamehash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authorfullhash}{48d2b23c4baf0a95780b5937a4efc911}
+      \strng{authorfullhashraw}{48d2b23c4baf0a95780b5937a4efc911}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0002-9572}
+      \field{journaltitle}{American Journal of Public Health and the Nations Health}
+      \field{month}{1}
+      \field{number}{7}
+      \field{shortjournal}{Am. J. Public Health Nations Health}
+      \field{title}{Measuring Community Health Levels}
+      \field{volume}{54}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \field{pages}{10631070}
+      \range{pages}{1}
+    \endentry
+    \entry{sasinstituteinc..2016.sas}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cbb46904ca1dee62bd010b68176fee0}{%
+           family={{SAS Institute Inc.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cary, NC}%
+      }
+      \strng{namehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{fullhash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{fullhashraw}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{bibnamehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authorbibnamehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authornamehash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authorfullhash}{0cbb46904ca1dee62bd010b68176fee0}
+      \strng{authorfullhashraw}{0cbb46904ca1dee62bd010b68176fee0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{SAS}}/{{STAT}}®{} 14.2 {{User}}'s {{Guide}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{shen.2023.disability}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=448a1366ae9a0c4a2e318f2d4a5f764e}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Tianyu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75145a7a6b43b081ca68dafbeab74dd6}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Collin\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53207db60ace65055f28feee01653cf6}
+      \strng{fullhash}{53207db60ace65055f28feee01653cf6}
+      \strng{fullhashraw}{53207db60ace65055f28feee01653cf6}
+      \strng{bibnamehash}{53207db60ace65055f28feee01653cf6}
+      \strng{authorbibnamehash}{53207db60ace65055f28feee01653cf6}
+      \strng{authornamehash}{53207db60ace65055f28feee01653cf6}
+      \strng{authorfullhash}{53207db60ace65055f28feee01653cf6}
+      \strng{authorfullhashraw}{53207db60ace65055f28feee01653cf6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{23528273}
+      \field{journaltitle}{SSM - Population Health}
+      \field{month}{12}
+      \field{shortjournal}{SSM - Popul. Health}
+      \field{shorttitle}{Disability and Morbidity among {{US}} Birth Cohorts, 1998--2018}
+      \field{title}{Disability and Morbidity among {{US}} Birth Cohorts, 1998--2018: A Multidimensional Test of Dynamic Equilibrium Theory}
+      \field{volume}{24}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{101528}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ssmph.2023.101528
+      \endverb
+    \endentry
+    \entry{thewhoqolgroup.1998.development}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6cae8de33cd94cd447ba3b44e42e9d58}{%
+           family={{The WHOQOL Group}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{fullhash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{fullhashraw}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{bibnamehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authorbibnamehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authornamehash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authorfullhash}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \strng{authorfullhashraw}{6cae8de33cd94cd447ba3b44e42e9d58}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{edition}{1998/05/01}
+      \field{issn}{0033-2917}
+      \field{journaltitle}{Psychological Medicine}
+      \field{month}{1}
+      \field{number}{3}
+      \field{shortjournal}{Psychol. Med.}
+      \field{title}{Development of the World Health Organization {{WHOQOL-BREF}} Quality of Life Assessment}
+      \field{volume}{28}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{551\bibrangedash 558}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/0F50596B33A1ABD59A6605C44A6A8F30
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/0F50596B33A1ABD59A6605C44A6A8F30
+      \endverb
+    \endentry
+    \entry{unitednations.2024.world}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department of Economic and Social Affairs, Population Division}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhashraw}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{number}{UN DESA/POP/2024/DC/NO. 10}
+      \field{title}{World Population Prospects 2024}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://population.un.org/wpp/
+      \endverb
+      \verb{url}
+      \verb https://population.un.org/wpp/
+      \endverb
+    \endentry
+    \entry{veenhoven.1996.study}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c446534e6efdfdca62fd890582abea3}{%
+           family={Veenhoven},
+           familyi={V\bibinitperiod},
+           given={Ruut},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \true{moreeditor}
+      \name{editor}{4}{}{%
+        {{hash=4641cb51760b64086b6d1181d09c63f7}{%
+           family={Saris},
+           familyi={S\bibinitperiod},
+           given={Willem\bibnamedelima E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3c446534e6efdfdca62fd890582abea3}{%
+           family={Veenhoven},
+           familyi={V\bibinitperiod},
+           given={Ruut},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9982b10c2d26e65365571cd05cc9d326}{%
+           family={Scherpenzeel},
+           familyi={S\bibinitperiod},
+           given={Annette\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4457d63ad157979261b9aad4f86ba50c}{%
+           family={Bunting},
+           familyi={B\bibinitperiod},
+           given={Brendan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BudapestEotvos University Press}%
+      }
+      \strng{namehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{fullhash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{fullhashraw}{3c446534e6efdfdca62fd890582abea3}
+      \strng{bibnamehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authorbibnamehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authornamehash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authorfullhash}{3c446534e6efdfdca62fd890582abea3}
+      \strng{authorfullhashraw}{3c446534e6efdfdca62fd890582abea3}
+      \strng{editorbibnamehash}{5eab9f94fce76d61fded8daff371f20a}
+      \strng{editornamehash}{cef5015853e73600fac58d0da98c2aef}
+      \strng{editorfullhash}{5eab9f94fce76d61fded8daff371f20a}
+      \strng{editorfullhashraw}{5eab9f94fce76d61fded8daff371f20a}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A {{Comparative Study}} of {{Satisfaction}} with {{Life}} in {{Europe}}}
+      \field{day}{1}
+      \field{eprinttype}{hdl}
+      \field{month}{1}
+      \field{title}{The Study of Life-Satisfaction}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 1765/16311
+      \endverb
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1765/16311
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1765/16311
+      \endverb
+    \endentry
+    \entry{wan.2024.socioeconomic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3535238c139affbf4add339914fe68ea}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Yunxiang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e28067ef9f07bc713da816279582795d}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Leiwen},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Netherlands}%
+      }
+      \strng{namehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{fullhash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{fullhashraw}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{bibnamehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authorbibnamehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authornamehash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authorfullhash}{9709b130bf4da615d8ebf3b8314f0307}
+      \strng{authorfullhashraw}{9709b130bf4da615d8ebf3b8314f0307}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1389-4978, 1573-7780}
+      \field{journaltitle}{Journal of Happiness Studies}
+      \field{month}{10}
+      \field{number}{7}
+      \field{shortjournal}{J. Happiness Stud.}
+      \field{title}{Socioeconomic Differences in Happy Life Expectancy among Older Adults in {{China}}}
+      \field{volume}{25}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{87}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10902-024-00789-w
+      \endverb
+    \endentry
+    \entry{wang.2023.hierarchical}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=400deaba60e893642a02ba0f84b4fa40}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peigang},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=400deaba60e893642a02ba0f84b4fa40}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peigang},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Singapore}%
+      }
+      \strng{namehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{fullhash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{fullhashraw}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bibnamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authorbibnamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authornamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authorfullhash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{authorfullhashraw}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthorbibnamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthornamehash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthorfullhash}{400deaba60e893642a02ba0f84b4fa40}
+      \strng{bookauthorfullhashraw}{400deaba60e893642a02ba0f84b4fa40}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Study on {{Quality}} of {{Life}} of {{Chinese Residents}} with {{Social Change}}}
+      \field{isbn}{978-981-99-2220-8 978-981-99-2221-5}
+      \field{title}{A Hierarchical Age-Period-Cohort Analysis of Social Change and Happiness}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{129\bibrangedash 145}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-981-99-2221-5_8
+      \endverb
+    \endentry
+    \entry{yang.2024.gender}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=65e17525e4a3b4333ddf8c3334774282}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Jidong},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a6b67b9ec60bc48a8b0bdad41f6246f6}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Yunqi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a6c52d965fe98e402306b0e062c1513}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xianghong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6e728650e7a23d74a312b700c16d6d48}
+      \strng{fullhash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{fullhashraw}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{bibnamehash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{authorbibnamehash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{authornamehash}{6e728650e7a23d74a312b700c16d6d48}
+      \strng{authorfullhash}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \strng{authorfullhashraw}{9f1c3b286cbff4a72b4014d1f9b5b0ea}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1354-5701}
+      \field{journaltitle}{Feminist Economics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Fem. Econ.}
+      \field{title}{The Gender Happiness Gap in {{China}}: Composition Effect or Coefficient Effect?}
+      \field{volume}{30}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{70\bibrangedash 105}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1080/13545701.2023.2279212
+      \endverb
+    \endentry
+    \entry{yang.2008.long}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=d9da4a23ca804cbf6aff5760349ec643}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{fullhash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{fullhashraw}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{bibnamehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authorbibnamehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authornamehash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authorfullhash}{d9da4a23ca804cbf6aff5760349ec643}
+      \strng{authorfullhashraw}{d9da4a23ca804cbf6aff5760349ec643}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{pubmed}
+      \field{issn}{0049089X}
+      \field{journaltitle}{Social Science Research}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Soc. Sci. Res.}
+      \field{shorttitle}{Long and Happy Living}
+      \field{title}{Long and Happy Living: Trends and Patterns of Happy Life Expectancy in the {{U}}.{{S}}., 1970--2000}
+      \field{volume}{37}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{1235\bibrangedash 1252}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.ssresearch.2007.07.004
+      \endverb
+      \verb{eprint}
+      \verb 19227700
+      \endverb
+    \endentry
+    \entry{yang.2010.increment}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=d9da4a23ca804cbf6aff5760349ec643}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=95f5d41484cd8562bdcea0ec0dd4b045}{%
+           family={Waliji},
+           familyi={W\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer; Springer Netherlands}%
+      }
+      \strng{namehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{fullhash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{fullhashraw}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{bibnamehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authorbibnamehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authornamehash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authorfullhash}{733e21ed30cd7803d6e362711efbf8c8}
+      \strng{authorfullhashraw}{733e21ed30cd7803d6e362711efbf8c8}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1573-7829}
+      \field{journaltitle}{Population Research and Policy Review}
+      \field{month}{1}
+      \field{number}{6}
+      \field{shortjournal}{Popul. Res. Policy Rev.}
+      \field{title}{Increment--Decrement Life Table Estimates of Happy Life Expectancy for the {{U}}.{{S}}. Population}
+      \field{volume}{29}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{775\bibrangedash 795}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s11113-009-9162-5
+      \endverb
+    \endentry
+    \entry{zeng.2008.introduction}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=60c00f70f37621de7cc58e36574885af}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Dordrecht}%
+      }
+      \strng{namehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{fullhash}{60c00f70f37621de7cc58e36574885af}
+      \strng{fullhashraw}{60c00f70f37621de7cc58e36574885af}
+      \strng{bibnamehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authorbibnamehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authornamehash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authorfullhash}{60c00f70f37621de7cc58e36574885af}
+      \strng{authorfullhashraw}{60c00f70f37621de7cc58e36574885af}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Healthy {{Longevity}} in {{China}}}
+      \field{day}{1}
+      \field{month}{1}
+      \field{title}{Introduction to the Chinese Longitudinal Healthy Longevity Survey ({{CLHLS}})}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{23\bibrangedash 38}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-6752-5_2
+      \endverb
+    \endentry
+    \entry{zhao.2023.chinas}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7cd1328c3f3748eb601058955880c18e}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Litao},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{fullhash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{fullhashraw}{7cd1328c3f3748eb601058955880c18e}
+      \strng{bibnamehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authorbibnamehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authornamehash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authorfullhash}{7cd1328c3f3748eb601058955880c18e}
+      \strng{authorfullhashraw}{7cd1328c3f3748eb601058955880c18e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{9}
+      \field{eprinttype}{pubmed}
+      \field{issn}{2771-1749}
+      \field{journaltitle}{Health Care Science}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{Health Care Sci.}
+      \field{shorttitle}{China's Aging Population}
+      \field{title}{China's Aging Population: A Review of Living Arrangement, Intergenerational Support, and Wellbeing}
+      \field{volume}{2}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{317\bibrangedash 327}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1002/hcs2.64
+      \endverb
+      \verb{eprint}
+      \verb 38938584
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{dong}
+\endrefsection
+\endinput
+
