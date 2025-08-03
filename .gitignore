@@ -3,8 +3,9 @@ Exploration/
 
 ### Manuscript ###
 Manuscript/Pre/
-*.bbl
-*.synctex.gz
+.bbl
+.synctex.gz
+
 
 ### Github ###
 Github/
