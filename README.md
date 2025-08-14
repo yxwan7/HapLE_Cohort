@@ -4,7 +4,7 @@ This repository contains the code and data structure for analyzing cohort trends
 
 ## Project Structure
 
-The project is organized into three main components: R for data processing and visualization, SAS for multistate modeling and manuscripts for the final paper.
+The project is organized into three main components: R for data processing and visualization and SAS for multistate modeling.
 
 ### R Components (`R_HapLE/`)
 
@@ -83,19 +83,6 @@ Each model specification directory contains:
 - **SPACE manual/**: Contains documentation for the SPACE (Stochastic Population Analysis for Complex Events) program
   - `SPACE_manual.pdf`: Complete user manual
   - `Cai et al 2010 (SPACE paper).pdf`: Original methodology paper
-
-### Manuscript Components (`Manuscript/`)
-
-The Manuscript directory contains LaTeX files and outputs for the final paper:
-
-- **Latex/**: Main LaTeX manuscript files
-  - `Manuscript_re.tex`, `Manuscript_re2.tex`, `Manuscript_re3.tex`, `Manuscript_re4.tex`: Different versions of the manuscript
-  - `Manuscript.tex`: Original manuscript
-  - `refs.bib`: Bibliography file
-  - `fig_tabs_b100/` and `fig_tabs_b300/`: Figure and table outputs with different bootstrap iterations (100 vs 300)
-    - Contains descriptive statistics, life expectancy tables, and LaTeX formatted outputs
-    - Generated figures and state space diagrams (`latex_output/State_space.pdf`)
-  - `latex_output/`: Final compiled PDF versions of the manuscript
 
 ## Workflow
 
