@@ -2,7 +2,7 @@
 Exploration/
 
 ### Manuscript ###
-Manuscript/Pre/
+Manuscript/
 .bbl
 .synctex.gz
 
@@ -71,3 +71,8 @@ rsconnect/
 ### SAS ###
 SAS_HapLE_4s/
 SAS_HapLE_3s_Robust/
+
+
+Manuscript/Latex/latex_output/Manuscript_re4.bbl-SAVE-ERROR
+Manuscript/Latex/latex_output/Manuscript_re4.bbl
+Manuscript/Latex/latex_output/Manuscript_re4.synctex.gz
